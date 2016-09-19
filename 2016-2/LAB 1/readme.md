@@ -9,3 +9,8 @@ Crear un reporte utilizando los conceptos de entrada y salida de datos utilizand
 $ g++ main.cpp auxiliar.cpp
 $ a.exe < precipitaciones.txt > salida.txt
 ```
+
+![Imagen 1][1]  ![Imagen 2][2]
+
+ [1]: /enunciado/1.JPG
+ [2]: 1.JPG "scaphandre"
