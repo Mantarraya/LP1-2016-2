@@ -7,7 +7,6 @@ El operador de dirección (&) devuelve la dirección en donde se encuentra el op
 
 ```cpp
 #include <iostream>
-
 using namespace std;
 
 int main(){
