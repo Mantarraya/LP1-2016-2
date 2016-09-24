@@ -1,6 +1,3 @@
-/* Tomairo Huamanraime Juan Junior
-    20125870 */
-
 #ifndef TORTUGA_H
 #define TORTUGA_H
 
@@ -21,6 +18,5 @@ int validar_movimiento(int*, int[], int, int, int);
 void mover(int*&, int, int, int, int);
 
 void reset_tortuga(int*&, int[]);
-
 
 #endif

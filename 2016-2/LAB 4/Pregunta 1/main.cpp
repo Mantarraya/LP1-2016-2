@@ -1,12 +1,8 @@
-/* Tomairo Huamanraime Juan Junior
-    20125870 */
-
 #include <iostream>
 #include <cstdio>
 #include "tortuga.h"
-#define N 5
+#define N 7
 using namespace std;
-/* Programa Principal */
 
 int main(){
 	
@@ -15,29 +11,42 @@ int main(){
 	int *tortuga;
 	int pluma = 1; /* abajo */
 	int orientacion = 0; /* abajo */
-
-	
 	
 	/* Inicializamos el puntero */
 	tortuga = tablero;
 	
 	/* Tablero inicial */
+	cout << "Tablero Inicial: " << endl; 
 	imprimir_tablero(tablero, N);
-	
 	
 	/* Pos Inicial */
-	cout << tortuga_x(tortuga, tablero, N) << " " << tortuga_y(tortuga, tablero, N)<< endl;
+	cout << "Posicion Inicial (x, y): " << tortuga_x(tortuga, tablero, N) << " " << tortuga_y(tortuga, tablero, N)<< endl;
 
-	dibujar(tortuga, pluma);
+	if (validar_movimiento(tortuga, tablero, N, orientacion, 5) == 1){
+		mover(tortuga, N, pluma, orientacion, 5);
+		imprimir_tablero(tablero, N);
+	}
 	
-	imprimir_tablero(tablero, N);
+	cout << "Posicion (x, y): " << tortuga_x(tortuga, tablero, N) << " " << tortuga_y(tortuga, tablero, N)<< endl;
 	
-	mover(tortuga, N, pluma, orientacion, 3);
-	dibujar(tortuga, pluma);
+	orientacion = girar_tortuga(orientacion, 3); /* derecha */
 	
-	imprimir_tablero(tablero, N);
+	if (validar_movimiento(tortuga, tablero, N, orientacion, 4) == 1){
+		mover(tortuga, N, pluma, orientacion, 4);
+		imprimir_tablero(tablero, N);
+	}
 	
+	cout << "Posicion (x, y): " << tortuga_x(tortuga, tablero, N) << " " << tortuga_y(tortuga, tablero, N)<< endl;
+
+	orientacion = girar_tortuga(orientacion, 3); /* derecha */
+
+	if (validar_movimiento(tortuga, tablero, N, orientacion, 3) == 1){
+		mover(tortuga, N, pluma, orientacion, 3);
+		imprimir_tablero(tablero, N);
+	}
 	
-	
+	cout << "Posicion (x, y): " << tortuga_x(tortuga, tablero, N) << " " << tortuga_y(tortuga, tablero, N)<< endl;
+
+
 	return 0;
 }

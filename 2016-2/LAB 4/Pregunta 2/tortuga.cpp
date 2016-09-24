@@ -1,10 +1,10 @@
 
 #include <iostream>
+#include <cstdio>
 using namespace std;
 
 void imprimir_tablero(int tablero[], int n){
 	
-	cout << endl;
 	
 	for (int i = 0; i < n*n; i++){
 		
@@ -15,6 +15,7 @@ void imprimir_tablero(int tablero[], int n){
 		
 	}
 	
+	cout << endl;
 }
 
 void limpiar_tablero(int tablero[], int n){
@@ -24,23 +25,26 @@ void limpiar_tablero(int tablero[], int n){
 	
 }
 
-int tortuga_x(int *tortuga, int tablero[], int n){
+int tortuga_y(int *tortuga, int tablero[], int n){
 	
-	int posAvanzadas = tortuga - tablero;
+	int pos;
 	
-	int posX = posAvanzadas % n;
+	pos = tortuga - tablero;
 	
-	return posX;
+	
+	pos = pos%n;
+	
+	return pos;
 	
 }
 
-int tortuga_y(int *tortuga, int tablero[], int n){
+int tortuga_x(int *tortuga, int tablero[], int n){
 	
-	int posAvanzadas = tortuga - tablero;
+	int pos;
 	
-	int posY = posAvanzadas/n;
+	pos = tortuga - tablero;
 	
-	return posY;
+	return (pos)/n;
 	
 }
 
@@ -81,63 +85,83 @@ int girar_tortuga(int orientacion, int sentido_giro){
 
 void dibujar(int *&tortuga, int pluma){
 	
-	if (pluma == 1)
-		*tortuga = 1;
-		
+	/* No dibujamos */
+	if (pluma == 0)
+		return;
+	
+	*tortuga = 1;	
+	
 }
-
 int validar_movimiento(int *tortuga, int tablero[], int n, int orientacion, int distancia){
 	
-	/* Calculamos la posicion actual de la tortuga (posX, posY) */
-	
 	int posX = tortuga_x(tortuga, tablero, n);
+	
 	int posY = tortuga_y(tortuga, tablero, n);
 	
-	/* Verificamos que no salga de la "matriz" */
+	if (orientacion == 0){
+		
+		if ((posY + distancia)  >= n)
+			return 0;
+		else
+			return 1;	
+		
+	}
+	else if (orientacion == 1){
+		
+		if ((posY - distancia)  >= 0)
+			return 1;
+		else
+			return 0;	
+		
+	}
+	else if (orientacion == 2){
+		
+		if ((posX + distancia)  >= n)
+			return 0;
+		else
+			return 1;	
+		
+		
+	}
+	else if (orientacion == 3){
+		
+		if ((posX - distancia)  >= 0)
+			return 1;
+		else
+			return 0;	
+		
+	}
 	
-	if (orientacion == 0)
-		
-		return (posX + distancia >= n)? 0 : 1; 
-		
-	else if (orientacion == 1)
-		
-		return (posX - distancia >= 0)? 1 : 0;
-		
-	else if (orientacion == 2)
-		
-		return (posY + distancia >= n)? 0 : 1;
-		
-	else if (orientacion == 3)
-		
-		return (posY - distancia >= 0)? 1 : 0;
 	
 }
 
 void mover(int *&tortuga, int n, int pluma, int orientacion, int distancia){
 	
-	/* Movemos tortuga, en caso la pluma este abajo(1) dibujamos */
 
+	
+	/* Validamos Movimiento 
+	if (validar_movimiento(tortuga, tablero[], n, orientacion, distancia) == 0)
+		return;
+	
+	*/
+	
+	/* Movemos tortuga */
 	if (orientacion == 0){
 		
 		for (int i = 0; i < distancia; i++){
 			
 			if (pluma == 1)
 				dibujar(tortuga, pluma); 
-				
 			tortuga++;
-			
 		}
 		
 	}
 	else if (orientacion == 1){
 		
 		for (int i = 0; i < distancia; i++){
-			
 			if (pluma == 1)
 				dibujar(tortuga, pluma); 
-				
 			tortuga--;
-			
 		}
 		
 		
@@ -145,35 +169,30 @@ void mover(int *&tortuga, int n, int pluma, int orientacion, int distancia){
 	else if (orientacion == 2){
 		
 		for (int i = 0; i < distancia; i++){
-			
 			if (pluma == 1)
 				dibujar(tortuga, pluma); 
-			
 			tortuga += n;	
-			
 		}
 
+		
 		
 	}
 	else if (orientacion == 3){
 		
 		for (int i = 0; i < distancia; i++){
-			
 			if (pluma == 1)
-			
 				dibujar(tortuga, pluma); 
-				
 			tortuga -= n;
-			
 		}
-		
 	}
+	
+	
+	
 	
 }
 
 void reset_tortuga(int *&tortuga, int tablero[]){
 	
-	/* Colocamos a la tortuga en la posicion inicial del tablero */
 	tortuga = &tablero[0];
 	
 }
