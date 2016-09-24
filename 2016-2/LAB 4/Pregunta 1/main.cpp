@@ -19,7 +19,7 @@ int main(){
 	cout << "Tablero Inicial: " << endl; 
 	imprimir_tablero(tablero, N);
 	
-	/* Pos Inicial */
+	/* Posicion Inicial */
 	cout << "Posicion Inicial (x, y): " << tortuga_x(tortuga, tablero, N) << " " << tortuga_y(tortuga, tablero, N)<< endl;
 
 	if (validar_movimiento(tortuga, tablero, N, orientacion, 5) == 1){
@@ -46,7 +46,6 @@ int main(){
 	}
 	
 	cout << "Posicion (x, y): " << tortuga_x(tortuga, tablero, N) << " " << tortuga_y(tortuga, tablero, N)<< endl;
-
 
 	return 0;
 }
