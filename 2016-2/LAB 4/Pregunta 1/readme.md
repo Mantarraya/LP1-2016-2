@@ -1,7 +1,7 @@
 ## LABORATORIO #4 PREGUNTA 1 2016-2
 
 ### TEMA
-Implementar una biblioteca estatica para manipular el movimiento de una tortuga(puntero)
+Implementar una biblioteca estatica para manipular el movimiento de una tortuga(puntero estático)
 
 ### LINEA DE COMANDOS PARA COMPILAR Y EJECUTAR EL PROGRAMA
 ```sh
