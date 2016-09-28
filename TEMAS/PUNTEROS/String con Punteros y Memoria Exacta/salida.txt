@@ -1,0 +1,98 @@
+Codigo: CIV224 Creditos: 4.5 Nombre del Curso: Analisis Estructural 1
+Codigo: CIV283 Creditos: 3.5 Nombre del Curso: Instalaciones de Edificaciones
+Codigo: CIV284 Creditos: 3.5 Nombre del Curso: Planificacion de la Construccion
+Codigo: CIV307 Creditos: 3.5 Nombre del Curso: Concreto Armado 2
+Codigo: CIV308 Creditos: 3.5 Nombre del Curso: Estructuras de Acero
+Codigo: CIV309 Creditos: 3.5 Nombre del Curso: Diseno de Estructuras Especiales
+Codigo: CIV313 Creditos: 3.5 Nombre del Curso: Puentes
+Codigo: CIV314 Creditos: 3.5 Nombre del Curso: Croncreto Pretensado
+Codigo: CIV364 Creditos: 3.5 Nombre del Curso: Albanileria Estructural
+Codigo: DEC210 Creditos: 3 Nombre del Curso: Personas Juridicas
+Codigo: DEC222 Creditos: 4 Nombre del Curso: Derecho Procesal Civil 1
+Codigo: DEC231 Creditos: 3 Nombre del Curso: Derecho Civil 6: Familia
+Codigo: DEE204 Creditos: 3 Nombre del Curso: Derecho Administrativo 2
+Codigo: DEE207 Creditos: 3 Nombre del Curso: Derecho Internacional Publico
+Codigo: DEE214 Creditos: 3 Nombre del Curso: Derecho Constitucional 1
+Codigo: DEE215 Creditos: 3 Nombre del Curso: Derecho Constitucional 2
+Codigo: DEL203 Creditos: 3 Nombre del Curso: Derecho Laboral General
+Codigo: DEL204 Creditos: 3 Nombre del Curso: Derecho Laboral Especial
+Codigo: DER202 Creditos: 3 Nombre del Curso: Sociologia del Derecho
+Codigo: DER205 Creditos: 3 Nombre del Curso: Filosofia del Derecho
+Codigo: DET211 Creditos: 3 Nombre del Curso: Legislacion Tributaria
+Codigo: FIS308 Creditos: 4.5 Nombre del Curso: Mecanica Cuantica 1
+Codigo: FIS309 Creditos: 4.5 Nombre del Curso: Mecanica Cuantica 2
+Codigo: FIS335 Creditos: 4 Nombre del Curso: Acustica
+Codigo: FIS338 Creditos: 4 Nombre del Curso: Seminario de Fisica
+Codigo: FIS366 Creditos: 3.5 Nombre del Curso: Electroacustica
+Codigo: IEE203 Creditos: 4.5 Nombre del Curso: Circuitos Analogicos
+Codigo: IEE212 Creditos: 3.5 Nombre del Curso: Circuitos Electricos 2
+Codigo: IEE213 Creditos: 3.5 Nombre del Curso: Dibujo Electrotecnico
+Codigo: IEE217 Creditos: 3.5 Nombre del Curso: Sistemas Electricos
+Codigo: IEE313 Creditos: 3 Nombre del Curso: Microelectronica
+Codigo: IEE331 Creditos: 3.5 Nombre del Curso: Diseno de Redes de Computadoras
+Codigo: IEE332 Creditos: 1 Nombre del Curso: Laboratorio de Redes de Computadoras
+Codigo: IEE341 Creditos: 3.5 Nombre del Curso: Propagacion y Radiacion Electromagnetica
+Codigo: IEE351 Creditos: 3.5 Nombre del Curso: Temas de Ingenieria Electronica
+Codigo: IND213 Creditos: 3.5 Nombre del Curso: Ingenieria de Plantas
+Codigo: IND221 Creditos: 3 Nombre del Curso: Automatizacion Industrial
+Codigo: IND350 Creditos: 3 Nombre del Curso: Plan de Negocios
+Codigo: IND352 Creditos: 3.5 Nombre del Curso: Procesos de Decision
+Codigo: IND361 Creditos: 3 Nombre del Curso: Gestion de Recursos Humanos
+Codigo: IND362 Creditos: 3.5 Nombre del Curso: Mantenimiento Industrial
+Codigo: IND374 Creditos: 3 Nombre del Curso: Temas de Investigacion de Operaciones
+Codigo: IND375 Creditos: 3 Nombre del Curso: Temas de Gestion
+Codigo: IND376 Creditos: 3 Nombre del Curso: Temas de Operaciones
+Codigo: INF227 Creditos: 3 Nombre del Curso: Desarrollo de Programas 2
+Codigo: INF239 Creditos: 4 Nombre del Curso: Sistemas Operativos
+Codigo: INF245 Creditos: 4 Nombre del Curso: Ingenieria de Software
+Codigo: INF248 Creditos: 5 Nombre del Curso: Sistemas de Informacion 1
+Codigo: INF265 Creditos: 4 Nombre del Curso: Aplicaciones de Ciencias de la Computacion
+Codigo: INF274 Creditos: 4 Nombre del Curso: Administracion de Sistemas Operativos
+Codigo: INF281 Creditos: 5 Nombre del Curso: Lenguaje de Programacion 1
+Codigo: INF627 Creditos: 3 Nombre del Curso: Programacion en el Sistema UNIX
+Codigo: INF630 Creditos: 3 Nombre del Curso: Base de Datos 2
+Codigo: INF639 Creditos: 3 Nombre del Curso: Proceso de Construccion de Software 1
+Codigo: INF640 Creditos: 3 Nombre del Curso: Proceso de Construccion de Software 2
+Codigo: ING301 Creditos: 3.5 Nombre del Curso: Manufactura Integrada por Computadora
+Codigo: LIT201 Creditos: 4 Nombre del Curso: Literatura Medieval Espanola
+Codigo: LIT204 Creditos: 4 Nombre del Curso: Literatura Contemporanea Espanola
+Codigo: LIT209 Creditos: 4 Nombre del Curso: Lirica peruana contemporanea
+Codigo: LIT234 Creditos: 4 Nombre del Curso: Lirica espanola de la edad de oro
+Codigo: LIT237 Creditos: 4 Nombre del Curso: Teoria literaria contemporanea 2
+Codigo: LIT244 Creditos: 4 Nombre del Curso: Literatura Peruana del siglo XIX
+Codigo: LIT246 Creditos: 2 Nombre del Curso: Deontologia y ling�istica y literatura
+Codigo: LIT284 Creditos: 4 Nombre del Curso: Seminario de tesis 1
+Codigo: LIT306 Creditos: 4 Nombre del Curso: Critica Textual
+Codigo: LIT312 Creditos: 4 Nombre del Curso: Teatro Espanol de la Edad de Oro
+Codigo: LIT313 Creditos: 4 Nombre del Curso: Narrativa espanola de la edad de oro
+Codigo: MAT218 Creditos: 4.5 Nombre del Curso: Ecuaciones Diferenciales Aplicadas
+Codigo: MAT244 Creditos: 4.5 Nombre del Curso: Algebra Lineal y Multilineal
+Codigo: MAT245 Creditos: 3.5 Nombre del Curso: Logica Matematica y Teoria de Conjuntos
+Codigo: MAT251 Creditos: 4.5 Nombre del Curso: Geometria
+Codigo: MAT253 Creditos: 4.5 Nombre del Curso: Topologia
+Codigo: MEC206 Creditos: 4.5 Nombre del Curso: Termodinamica 1
+Codigo: MEC208 Creditos: 4.5 Nombre del Curso: Termodinamica 2
+Codigo: MEC227 Creditos: 3 Nombre del Curso: Dibujo Mecanico 2
+Codigo: MEC298 Creditos: 4 Nombre del Curso: Proyecto de Ingenieria Mecanica 2
+Codigo: MEC299 Creditos: 3.8 Nombre del Curso: Motores de Combustion Interna
+Codigo: MEC2M1 Creditos: 4.5 Nombre del Curso: Elementos de Maquinas 1
+Codigo: MEC337 Creditos: 3 Nombre del Curso: Refrigeracion y Aire Acondicionado
+Codigo: MEC346 Creditos: 3 Nombre del Curso: Corrosion
+Codigo: MEC348 Creditos: 3 Nombre del Curso: Ingenieria de Combustibles Gaseosos
+Codigo: MEC350 Creditos: 3 Nombre del Curso: Metalurgia de la Soldadura
+Codigo: MIN227 Creditos: 4.8 Nombre del Curso: Topografia Minera
+Codigo: MIN248 Creditos: 4.5 Nombre del Curso: Transporte en Minas
+Codigo: MIN250 Creditos: 5 Nombre del Curso: Geologia de Yacimientos Minerales
+Codigo: MIN258 Creditos: 5.5 Nombre del Curso: Mineralogia y Petrologia
+Codigo: MIN260 Creditos: 4.5 Nombre del Curso: Perforacion y Voladura
+Codigo: MIN266 Creditos: 5.5 Nombre del Curso: Mecanica de Rocas
+Codigo: MIN269 Creditos: 5.5 Nombre del Curso: Concentracion de Minerales
+Codigo: MIN344 Creditos: 3.5 Nombre del Curso: Plan de Cierre y Recuperacion en Minas
+Codigo: MIN346 Creditos: 3.5 Nombre del Curso: Simulacion de Operaciones Mineras
+Codigo: QUI204 Creditos: 4 Nombre del Curso: Quimica Inorganica 1
+Codigo: QUI206 Creditos: 3 Nombre del Curso: Quimica Analitica 1
+Codigo: QUI208 Creditos: 3 Nombre del Curso: Quimica Analitica 2
+Codigo: QUI211 Creditos: 2 Nombre del Curso: Trabajo de Investigacion 1
+Codigo: QUI221 Creditos: 4 Nombre del Curso: Quimica Organica 1
+Codigo: QUI223 Creditos: 4 Nombre del Curso: Quimica Organica 2
+Codigo: QUI237 Creditos: 3 Nombre del Curso: Quimica Inorganica 3
