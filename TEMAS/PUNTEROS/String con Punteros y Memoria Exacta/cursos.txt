@@ -1,4 +1,4 @@
-CIV224           4.5    Analisis Estructural 1
+     CIV224           4.5    Analisis Estructural 1
 CIV283           3.5          Instalaciones de Edificaciones
 CIV284           3.5       Planificacion de la Construccion
 CIV307     3.5 Concreto Armado 2
@@ -84,15 +84,15 @@ MIN227     4.8 Topografia Minera
 MIN248     4.5    Transporte en Minas
 MIN250              5.0    Geologia de Yacimientos Minerales
 MIN258              5.5          Mineralogia y Petrologia
-MIN260              4.5       Perforacion y Voladura
+ MIN260              4.5       Perforacion y Voladura
 MIN266     5.5    Mecanica de Rocas
-MIN269        5.5          Concentracion de Minerales
+       MIN269        5.5          Concentracion de Minerales
 MIN344     3.5 Plan de Cierre y Recuperacion en Minas
 MIN346           3.5          Simulacion de Operaciones Mineras
-QUI204        4.0       Quimica Inorganica 1
-QUI206              3.0 Quimica Analitica 1
+ QUI204        4.0       Quimica Inorganica 1
+  QUI206              3.0 Quimica Analitica 1
 QUI208        3.0    Quimica Analitica 2
 QUI211        2.0    Trabajo de Investigacion 1
-QUI221     4.0    Quimica Organica 1
+      QUI221     4.0    Quimica Organica 1
 QUI223     4.0 Quimica Organica 2
-QUI237     3.0 Quimica Inorganica 3
+             QUI237     3.0 Quimica Inorganica 3

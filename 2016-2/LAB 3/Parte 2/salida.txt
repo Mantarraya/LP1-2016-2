@@ -1,0 +1,7 @@
+Resultado N 1 =    52.3710
+Resultado N 2 =     2.0210
+Resultado N 3 =   -43.3804
+Resultado N 4 =    -1.#IND
+Resultado N 5 =    42.4095
+Resultado N 6 =   112.3425
+Resultado N 7 =     1.8106
