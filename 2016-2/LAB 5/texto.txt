@@ -1,0 +1,136 @@
+Ñ  ñ
+Á  á
+É  é
+Í  í
+Ó  ó
+Ú  ú
+Ü  ü
+
+                                                               FCI  Adm  4.01
+                Pontificia Universidad Católica del Perú
+                   Facultad de Ciencias e Ingeniería
+                       Lenguajes de programación 1
+                          6 ta práctica tipo b
+                          Primer Semestre 2016
+Indicaciones Generales
+	Duración 110 minutos
+	Se podrá  usar  como material de consulta   solo  sus  apuntes  de clase
+	No se pueden  emplear  variables   globales  objetos excepto cin y cout 
+	ni la función fopen
+	Si     implementa  funciones  propias  estas  deberán ser  implementadas 
+	obligatoriamente  en  archivo  diferentes al maincpp debiendo crear los 
+	archivos h y cpp correspondientes
+	Se tomará en cuenta en la calificación el uso de comentarios relevantes 
+	Los    programas   que  presenten  errores   de sintaxis o de concepto se 
+	calificarán en base al 40 por ciento de  puntaje de la pregunta Los  que
+	 no den resultados coherentes en base al 60 por ciento
+	La presentación la ortografía y 	la gramática de los trabajos influirá
+	en 	la 	calificación
+Puntaje total 20 puntos
+Cuestionario
+Un  instituto de investigación  geográfica contrató  un practicante  para que 
+busque y registre algunos  datos climatológicos  de diferentes distritos  del 
+país  en distintos períodos históricos Lamentablemente esta persona era poco 
+ordenada por lo que los    datos  los colocó tal como  los  encontró en un 
+archivo  de  textos  sin  algún  criterio  de  orden  tal  como se muestra a 
+continuación
+
+	La Joya      8491
+	Villa     Maria     del     Triunfo      5819
+	San Silvestre de Cochan      8997
+	San Antonio de Chaclla       2348
+	Santo Domingo      9883
+	
+	Jose Maria Quimper      2013
+	8997   32.20   10   49.495   563.73    9	5	1981
+	8491   17.54   0.4902   2.514   0.68   8	2 1986
+	8997   63.63   49.91   3.539   443.81   12	10	1983
+
+
+El archivo con los datos tiene dos partes La primera parte contiene en cada
+  línea  el  nombre  de  una  ciudad  que  puede estar compuesto por varias 
+palabras y luego el código de la ciudad entero La segunda parte contiene
+ en cada línea el código de una ciudad seguido de los datos climatológicos 
+No existe alguna marca que indique dónde termina la primera parte del archivo
+   y   comienza   la   segunda
+
+Los datos climatológicos están  compuestos  por  la temperatura la humedad 
+   la precipitación y la fecha del registro Esta información aparece una vez
+  por  línea  pero   pueden existir    múltiples  líneas que contengan datos 
+ climatológicos    de  una misma   ciudad
+
+Para  identificar los datos  a  pesar del desorden el joven empleó un código 
+que él mismo definió Siempre colocó los datos del clima primero  seguidos de
+ la fecha La fecha  aparece  en  formato  dd mm aaaa
+
+Los  datos  del  clima los puso como venían esto es que en algún caso podría 
+venir  primero  la temperatura en otros la humedad etc Entonces para poder 
+distinguirlos  las  temperaturas  las colocó  siempre  empezando con una T y 
+como no sabía transformar las escala colocó una C o una F al final del número
+ si la temperatura  la  había  encontrado  en  grados  Celsius  o  Fahrenheit
+respectivamente pe 35.4 98.2 etc 
+
+La  humedad  la colocó  precedida  de una H pero como unas veces ubicaba este 
+dato  como  porcentaje  y otras  no  colocó  el símbolo de Z al final pe 
+55.7 o 0.557
+
+ Las  precipitaciones constan de dos valores la duración y el volumen de agua 
+que cayó por cm Este dato lo coloco con una P con la duración a continuación
+ terminada  con  una  o  H  S o M según ese dato estuviera en horas minutos o 
+ segundos    luego colocó el volumen pe  23.8   125.15  45.88 56.77 
+   etc
+
+Se  quiere una aplicación para manejar  este archivo por lo  que se  le pide a 
+usted que escriba la  implementación  de las funciones  dadas  en el siguiente 
+programa
+
+int main void 
+   void ciudades
+
+   leerCiudades ciudades
+   agregarDatosClima ciudades
+   return 0
+
+
+Pregunta 1 8 puntos
+Implemente  la  función  leerCiudades  que  deberá  leer redireccionando la 
+entrada  estándar  de  datos  la   primera    parte del archivo y guardar la 
+información en la estructura que se muestra adjunta
+Los nombres  se deben guardar eliminando los espacios sobrantes Los espacios 
+de  memoria  deben  ser  exactos  y los datos deben guardarse de acuerdo a su 
+naturaleza esto es los códigos como valores enteros
+Luego  de  llenar  los datos la función deberá imprimir de manera clara los 
+datos desde el arreglo
+
+Pregunta 2 12 puntos
+Implemente la función agregarDatosClima que deberá leer la  segunda  parte del
+archivo y completar la estructura de ciudades creada A continuación se muestra
+ cómo debe quedar la estructura luego de terminar la lectura de los datos
+
+En la estructura a cada regitro de ciudad se le agrega un elemento los datos
+climatológicos  Cada  registro  deberá considerar la fecha la temperatura en
+Fahrenheit la temperatura en Celsius la humedad como número real la
+duración de la precipitación en segundos y el volumen El manejo de la memoria
+ para el arreglo que contiene los datos  climatológicos  será  dinámico  los 
+ espacios de  memoria  irán  creciendo de cinco en cinco 
+
+Luego de llenar los datos la función deberá imprimir de manera clara los datos
+ de las ciudades y las mediciones de datos climatológicos desde la estructura
+
+NOTAS 
+	Cree  en  el  computador  una carpeta de trabajo con la  siguiente  ruta 
+	ctempLaboratorio En ella colocará el proyecto  que  dé  solución  al 
+	problema planteados 
+	En cada archivo que implemente en los proyectos h y cpp deberá colocar
+	un comentario en el que coloque claramente su nombre y código De no 
+	hacerlo se le descontará 0.5 puntos por archivo
+
+Al finalizar la práctica comprima  la carpeta laboratorio en un archivo con
+ nombre código del alumno con 8 dígitos extensión del archivo comprimido 
+ y súbalo a la Intranet del curso en el enlace Documentos en la carpeta 
+ Laboratorio código del horario aula
+
+
+Profesores del curso	Fernando Alva
+	Miguel Guanira
+	San Miguel 6 de mayo del 2016
