@@ -7,7 +7,7 @@
 #include <cstdio>
 #define MAX_CAR_LIN 500
 #define MAX_LIST_CAR 7
-#define MAX_ALFABETO 28
+#define MAX_ALFABETO 26
 #define MAX_PAL 1000
 using namespace std;
 
@@ -130,6 +130,32 @@ int verificarTipo(char pal[]){
 
 
 
+static int myCompare (const void * a, const void * b)
+{
+    return strcmp (*(const char **) a, *(const char **) b);
+}
+ 
+
+
+void ordenarMatrizPal(char ***&palabras, int palabrasXLetra[]){
+	
+	for (int i = 'A'; i <= 'Z'; i++){
+		
+		if (strcmp(palabras[i-'A'][0], "null") != 0)
+			qsort (palabras[i-'A'], palabrasXLetra[i-'A'], sizeof (const char *), myCompare);
+		
+	}
+	
+	for (int i = 'A'; i <= 'Z'; i++){
+		
+		if (strcmp(palabras[i-'A'][0], "null") != 0)
+			unique (palabras[i-'A'], palabras[i-'A'] + palabrasXLetra[i-'A']);
+		
+	}
+	
+	
+}
+
 void leerTexto(char *&letras, char ***&palabras, int *&valoresEnteros, double *&valoresDePuntoFlotante){
     
     char *palabrasLinea[MAX_CAR_LIN];
@@ -174,6 +200,10 @@ void leerTexto(char *&letras, char ***&palabras, int *&valoresEnteros, double *&
 	sort(valoresDePuntoFlotante, valoresDePuntoFlotante + nValFlotantes);
 	unique(valoresDePuntoFlotante, valoresDePuntoFlotante + nValFlotantes);
 	
+	ordenarMatrizPal(palabras, palabrasXLetra);
+	
+	
+	
 	/*
 	
 	for (int i = 0; i < 28; i++){
@@ -205,11 +235,7 @@ void crearDiccionario(char *&letras, char ***&palabras, int *&valoresEnteros, do
     inicializarEnteros(valoresEnteros);
     inicializarFlotantes(valoresDePuntoFlotante);
     
-	
     leerListaCar(listaCarMayus, listaCarMinus, nListaCar);
-    
-	
-	
     leerTexto(letras, palabras, valoresEnteros, valoresDePuntoFlotante);
     
     
@@ -236,15 +262,12 @@ void reporte(char *letras, char ***palabras, int *valoresEnteros, double *valore
 				cont++;
 				
 				if (cont % 3 == 0)
-					cout << endl;
-					
-				
-				
+					printf("\n");
 				
 			}
 			
 			if (cont % 3 != 0)
-					cout << endl;
+				printf("\n");
 			
 			
 		}
@@ -259,14 +282,14 @@ void reporte(char *letras, char ***palabras, int *valoresEnteros, double *valore
 		cont++;
 		
 		if (cont % 3 == 0)
-					cout << endl;
+			printf("\n");
 		
 	}
 	
 	if (cont % 3 != 0)
-					cout << endl;
+		printf("\n");
 				
-	printf("%19s\n", "VALORES DE PUNTO FLOTANTE");
+	printf("%29s\n", "VALORES DE PUNTO FLOTANTE");
 	cont = 0;
 	while (valoresDePuntoFlotante[cont] != -1){
 		
@@ -274,11 +297,11 @@ void reporte(char *letras, char ***palabras, int *valoresEnteros, double *valore
 		cont++;
 		
 		if (cont % 3 == 0)
-					cout << endl;
+			printf("\n");
 		
 	}
 	
 	if (cont % 3 != 0)
-					cout << endl;
+		printf("\n");
     
 }
