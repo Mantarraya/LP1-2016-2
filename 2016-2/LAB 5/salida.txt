@@ -3,80 +3,80 @@
     A                       AAAA                    ACUERDO             
     ADJUNTA                 ADM                     AGREGA              
     AGREGARDATOSCLIMA       AGUA                    AL                  
-    ALGUNA                  ALGUNOS                 ALG√öN               
+    ALGUNA                  ALGUNOS                 ALG⁄N               
     ALUMNO                  ALVA                    ANTONIO             
-    APARECE                 APLICACI√ìN              APUNTES             
+    APARECE                 APLICACI”N              APUNTES             
     ARCHIVO                 ARCHIVOS                ARREGLO             
     AULA                
     B
     B                       BASE                    BUSQUE              
     C
-    C                       CADA                    CALIFICACI√ìN        
-    CALIFICAR√ÅN             CARPETA                 CASO                
-    CAT√ìLICA                CAY√ì                    CELSIUS             
+    C                       CADA                    CALIFICACI”N        
+    CALIFICAR¡N             CARPETA                 CASO                
+    CAT”LICA                CAY”                    CELSIUS             
     CHACLLA                 CIENCIAS                CIENTO              
     CIN                     CINCO                   CIUDAD              
     CIUDADES                CLARA                   CLARAMENTE          
-    CLASE                   CLIMA                   CLIMATOL√ìGICOS      
+    CLASE                   CLIMA                   CLIMATOL”GICOS      
     CM                      COCHAN                  COHERENTES          
-    COLOCAR                 COLOCAR√Å                COLOCO              
-    COLOC√ì                  COLOQUE                 COMENTARIO          
+    COLOCAR                 COLOCAR¡                COLOCO              
+    COLOC”                  COLOQUE                 COMENTARIO          
     COMENTARIOS             COMIENZA                COMO                
     COMPLETAR               COMPRIMA                COMPRIMIDO          
     COMPUESTO               COMPUESTOS              COMPUTADOR          
     CON                     CONCEPTO                CONSIDERAR          
     CONSTAN                 CONSULTA                CONTENGAN           
-    CONTIENE                CONTINUACI√ìN            CONTRAT√ì            
+    CONTIENE                CONTINUACI”N            CONTRAT”            
     CORRESPONDIENTES        COUT                    CPP                 
     CREADA                  CREAR                   CRECIENDO           
     CREE                    CRITERIO                CTEMPLABORATORIO    
     CUENTA                  CUESTIONARIO            CURSO               
-    C√ìDIGO                  C√ìDIGOS                 C√ìMO                
+    C”DIGO                  C”DIGOS                 C”MO                
     D
     DADAS                   DATO                    DATOS               
     DD                      DE                      DEBE                
-    DEBEN                   DEBER√Å                  DEBER√ÅN             
-    DEBIENDO                DEFINI√ì                 DEL                 
-    DEN                     DESCONTAR√Å              DESDE               
-    DESORDEN                DIFERENTES              DIN√ÅMICO            
+    DEBEN                   DEBER¡                  DEBER¡N             
+    DEBIENDO                DEFINI”                 DEL                 
+    DEN                     DESCONTAR¡              DESDE               
+    DESORDEN                DIFERENTES              DIN¡MICO            
     DISTINGUIRLOS           DISTINTOS               DISTRITOS           
     DOCUMENTOS              DOMINGO                 DOS                 
-    DURACI√ìN                D√â                      D√çGITOS             
-    D√ìNDE               
+    DURACI”N                D…                      DÕGITOS             
+    D”NDE               
     E
     E                       EL                      ELEMENTO            
     ELIMINANDO              ELLA                    EMPEZANDO           
-    EMPLEAR                 EMPLE√ì                  EN                  
-    ENCONTRADO              ENCONTR√ì                ENLACE              
+    EMPLEAR                 EMPLE”                  EN                  
+    ENCONTRADO              ENCONTR”                ENLACE              
     ENTERO                  ENTEROS                 ENTONCES            
     ENTRADA                 ERA                     ERRORES             
     ES                      ESCALA                  ESCRIBA             
     ESE                     ESPACIOS                ESTA                
     ESTAR                   ESTAS                   ESTE                
     ESTO                    ESTRUCTURA              ESTUVIERA           
-    EST√ÅN                   EST√ÅNDAR                ETC                 
+    EST¡N                   EST¡NDAR                ETC                 
     EXACTOS                 EXCEPTO                 EXISTE              
-    EXISTIR                 EXTENSI√ìN           
+    EXISTIR                 EXTENSI”N           
     F
     F                       FACULTAD                FAHRENHEIT          
     FCI                     FECHA                   FERNANDO            
     FINAL                   FINALIZAR               FOPEN               
-    FORMATO                 FUNCIONES               FUNCI√ìN             
+    FORMATO                 FUNCIONES               FUNCI”N             
     G
-    GENERALES               GEOGR√ÅFICA              GLOBALES            
-    GRADOS                  GRAM√ÅTICA               GUANIRA             
+    GENERALES               GEOGR¡FICA              GLOBALES            
+    GRADOS                  GRAM¡TICA               GUANIRA             
     GUARDAR                 GUARDARSE           
     H
-    H                       HAB√çA                   HACERLO             
-    HIST√ìRICOS              HORARIO                 HORAS               
+    H                       HABÕA                   HACERLO             
+    HIST”RICOS              HORARIO                 HORAS               
     HUMEDAD             
     I
-    IDENTIFICAR             IMPLEMENTA              IMPLEMENTACI√ìN      
+    IDENTIFICAR             IMPLEMENTA              IMPLEMENTACI”N      
     IMPLEMENTADAS           IMPLEMENTE              IMPRIMIR            
-    INDICACIONES            INDIQUE                 INFLUIR√Å            
-    INFORMACI√ìN             INGENIER√çA              INSTITUTO           
-    INT                     INTRANET                INVESTIGACI√ìN       
-    IR√ÅN                
+    INDICACIONES            INDIQUE                 INFLUIR¡            
+    INFORMACI”N             INGENIERÕA              INSTITUTO           
+    INT                     INTRANET                INVESTIGACI”N       
+    IR¡N                
     J
     JOSE                    JOVEN                   JOYA                
     L
@@ -84,7 +84,7 @@
     LAS                     LE                      LECTURA             
     LEER                    LEERCIUDADES            LENGUAJES           
     LLENAR                  LO                      LOS                 
-    LUEGO                   L√çNEA                   L√çNEAS              
+    LUEGO                   LÕNEA                   LÕNEAS              
     M
     M                       MAIN                    MAINCPP             
     MANEJAR                 MANEJO                  MANERA              
@@ -92,30 +92,30 @@
     MAYO                    MEDICIONES              MEMORIA             
     MIGUEL                  MINUTOS                 MISMA               
     MISMO                   MM                      MUESTRA             
-    M√öLTIPLES           
+    M⁄LTIPLES           
     N
     NATURALEZA              NI                      NO                  
     NOMBRE                  NOMBRES                 NOTAS               
-    N√öMERO              
+    N⁄MERO              
     O
     O                       OBJETOS                 OBLIGATORIAMENTE    
-    ORDEN                   ORDENADA                ORTOGRAF√çA          
+    ORDEN                   ORDENADA                ORTOGRAFÕA          
     OTRAS                   OTROS               
     P
     P                       PALABRAS                PARA                
-    PARTE                   PARTES                  PA√çS                
+    PARTE                   PARTES                  PAÕS                
     PE                      PERO                    PERSONA             
-    PER√çODOS                PER√ö                    PESAR               
+    PERÕODOS                PER⁄                    PESAR               
     PIDE                    PLANTEADOS              POCO                
-    PODER                   PODR√Å                   PODR√çA              
+    PODER                   PODR¡                   PODRÕA              
     PONTIFICIA              POR                     PORCENTAJE          
     PRACTICANTE             PRECEDIDA               PRECIPITACIONES     
-    PRECIPITACI√ìN           PREGUNTA                PRESENTACI√ìN        
+    PRECIPITACI”N           PREGUNTA                PRESENTACI”N        
     PRESENTEN               PRIMER                  PRIMERA             
     PRIMERO                 PROBLEMA                PROFESORES          
-    PROGRAMA                PROGRAMACI√ìN            PROGRAMAS           
+    PROGRAMA                PROGRAMACI”N            PROGRAMAS           
     PROPIAS                 PROYECTO                PROYECTOS           
-    PR√ÅCTICA                PUEDE                   PUEDEN              
+    PR¡CTICA                PUEDE                   PUEDEN              
     PUNTAJE                 PUNTOS                  PUSO                
     Q
     QUE                     QUEDAR                  QUIERE              
@@ -126,20 +126,20 @@
     RESPECTIVAMENTE         RESULTADOS              RETURN              
     RUTA                
     S
-    S                       SAB√çA                   SAN                 
+    S                       SABÕA                   SAN                 
     SANTO                   SE                      SEGUIDO             
     SEGUIDOS                SEGUNDA                 SEGUNDOS            
-    SEG√öN                   SEMESTRE                SER                 
-    SER√Å                    SI                      SIEMPRE             
+    SEG⁄N                   SEMESTRE                SER                 
+    SER¡                    SI                      SIEMPRE             
     SIGUIENTE               SILVESTRE               SIN                 
     SINTAXIS                SOBRANTES               SOLO                
-    SOLUCI√ìN                SU                      SUS                 
-    S√çMBOLO                 S√öBALO              
+    SOLUCI”N                SU                      SUS                 
+    SÕMBOLO                 S⁄BALO              
     T
     T                       TA                      TAL                 
     TEMPERATURA             TEMPERATURAS            TERMINA             
     TERMINADA               TERMINAR                TEXTOS              
-    TIENE                   TIPO                    TOMAR√Å              
+    TIENE                   TIPO                    TOMAR¡              
     TOTAL                   TRABAJO                 TRABAJOS            
     TRANSFORMAR             TRIUNFO             
     U
@@ -148,7 +148,7 @@
     USO                     USTED               
     V
     VALORES                 VARIABLES               VARIAS              
-    VECES                   VENIR                   VEN√çAN              
+    VECES                   VENIR                   VENÕAN              
     VEZ                     VILLA                   VOID                
     VOLUMEN             
     Y
