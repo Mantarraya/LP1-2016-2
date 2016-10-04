@@ -128,33 +128,49 @@ int verificarTipo(char pal[]){
 	
 }
 
+template <typename T>
+void insertarOrdenado(T A[], int &cont, T num){
 
-
-static int myCompare (const void * a, const void * b)
-{
-    return strcmp (*(const char **) a, *(const char **) b);
-}
- 
-
-
-void ordenarMatrizPal(char ***&palabras, int palabrasXLetra[]){
+	int pos = cont;
 	
-	for (int i = 'A'; i <= 'Z'; i++){
+	for (int i = 0; i < cont; i++)
+		if (A[i] == num)
+			return;
+			
+	while (pos > 0 and A[pos-1] >= num){
 		
-		if (strcmp(palabras[i-'A'][0], "null") != 0)
-			qsort (palabras[i-'A'], palabrasXLetra[i-'A'], sizeof (const char *), myCompare);
-		
+		A[pos] = A[pos-1];
+		pos--;
 	}
 	
-	for (int i = 'A'; i <= 'Z'; i++){
+	A[pos] = num;
+	cont++;
+}
+template void insertarOrdenado(double[], int&, double);
+template void insertarOrdenado(int[], int&, int);
+
+
+void insertarOrdenadoPalabra(char **ArrPal, int &contPal, char *pal){
+	
+	int pos = contPal;
+	
+	for (int i = 0; i < contPal; i++)
+		if (strcmp(ArrPal[i], pal) == 0)
+			return;
+			
+	while (pos > 0 and strcmp(ArrPal[pos-1], pal) > 0){
 		
-		if (strcmp(palabras[i-'A'][0], "null") != 0)
-			unique (palabras[i-'A'], palabras[i-'A'] + palabrasXLetra[i-'A']);
-		
+		strcpy(ArrPal[pos], ArrPal[pos-1]);
+
+		pos--;
 	}
 	
+	strcpy(ArrPal[pos], pal);
+
+	contPal++;
 	
 }
+
 
 void leerTexto(char *&letras, char ***&palabras, int *&valoresEnteros, double *&valoresDePuntoFlotante){
     
@@ -175,52 +191,23 @@ void leerTexto(char *&letras, char ***&palabras, int *&valoresEnteros, double *&
 		tipoCadena = verificarTipo(pal);
 		
 		if (tipoCadena == 3){
-			valoresDePuntoFlotante[nValFlotantes] = atof(pal);
-			nValFlotantes++;			
+			
+			insertarOrdenado(valoresDePuntoFlotante, nValFlotantes, atof(pal));
 		}
 		else if (tipoCadena == 2){
-			valoresEnteros[nValEnteros] = atoi(pal);
-			nValEnteros++;
+			
+			insertarOrdenado(valoresEnteros, nValEnteros, atoi(pal));
+
 		}
 		else if (tipoCadena == 1){
 			
 			char car = pal[0];
-			//palabras[car-'A'][palabrasXLetra[car-'A']] = pal;
-			strcpy(palabras[car-'A'][palabrasXLetra[car-'A']] , pal);
-			palabrasXLetra[car-'A'] += 1;
 			
+			insertarOrdenadoPalabra(palabras[car-'A'], palabrasXLetra[car-'A'], pal);
+
 		}
 		
 	}
-	
-	
-	sort(valoresEnteros, valoresEnteros + nValEnteros);
-	unique(valoresEnteros, valoresEnteros + nValEnteros);
-	
-	sort(valoresDePuntoFlotante, valoresDePuntoFlotante + nValFlotantes);
-	unique(valoresDePuntoFlotante, valoresDePuntoFlotante + nValFlotantes);
-	
-	ordenarMatrizPal(palabras, palabrasXLetra);
-	
-	
-	
-	/*
-	
-	for (int i = 0; i < 28; i++){
-		
-		cout << char('A' + i) << ".-";
-	
-		sort(palabras[i], palabras[i] + palabrasXLetra[i]);
-	
-		for (int j = 0; j < palabrasXLetra[i]; j++){
-			
-			cout << palabras[i][j] << " ";
-		}
-		cout << endl;
-		
-	}
-	
-    */
 	
 }
     
@@ -237,8 +224,6 @@ void crearDiccionario(char *&letras, char ***&palabras, int *&valoresEnteros, do
     
     leerListaCar(listaCarMayus, listaCarMinus, nListaCar);
     leerTexto(letras, palabras, valoresEnteros, valoresDePuntoFlotante);
-    
-    
     
 }
 

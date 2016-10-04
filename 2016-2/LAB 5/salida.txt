@@ -1,324 +1,158 @@
                                        DICCIONARIO
     A
-    A                       A                       A                   
-    A                       A                       A                   
-    A                       A                       AAAA                
-    ACUERDO                 ADJUNTA                 ADM                 
-    AGREGA                  AGREGARDATOSCLIMA       AGREGARDATOSCLIMA   
-    AGUA                    AL                      AL                  
-    AL                      AL                      AL                  
-    AL                      AL                      ALGUNA              
-    ALGUNOS                 ALGÚN                   ALGÚN               
+    A                       AAAA                    ACUERDO             
+    ADJUNTA                 ADM                     AGREGA              
+    AGREGARDATOSCLIMA       AGUA                    AL                  
+    ALGUNA                  ALGUNOS                 ALGÚN               
     ALUMNO                  ALVA                    ANTONIO             
-    APARECE                 APARECE                 APLICACIÓN          
-    APUNTES                 ARCHIVO                 ARCHIVO             
-    ARCHIVO                 ARCHIVO                 ARCHIVO             
-    ARCHIVO                 ARCHIVO                 ARCHIVO             
-    ARCHIVO                 ARCHIVO                 ARCHIVO             
-    ARCHIVOS                ARREGLO                 ARREGLO             
+    APARECE                 APLICACIÓN              APUNTES             
+    ARCHIVO                 ARCHIVOS                ARREGLO             
     AULA                
     B
-    B                       BASE                    BASE                
-    BUSQUE              
+    B                       BASE                    BUSQUE              
     C
-    C                       CADA                    CADA                
-    CADA                    CADA                    CADA                
-    CALIFICACIÓN            CALIFICACIÓN            CALIFICARÁN         
-    CARPETA                 CARPETA                 CARPETA             
-    CASO                    CATÓLICA                CAYÓ                
-    CELSIUS                 CELSIUS                 CHACLLA             
-    CIENCIAS                CIENTO                  CIENTO              
-    CIN                     CINCO                   CINCO               
-    CIUDAD                  CIUDAD                  CIUDAD              
-    CIUDAD                  CIUDAD                  CIUDADES            
-    CIUDADES                CIUDADES                CIUDADES            
-    CIUDADES                CLARA                   CLARA               
-    CLARAMENTE              CLASE                   CLIMA               
-    CLIMA                   CLIMATOLÓGICOS          CLIMATOLÓGICOS      
-    CLIMATOLÓGICOS          CLIMATOLÓGICOS          CLIMATOLÓGICOS      
-    CLIMATOLÓGICOS          CLIMATOLÓGICOS          CM                  
-    COCHAN                  COHERENTES              COLOCAR             
-    COLOCARÁ                COLOCO                  COLOCÓ              
-    COLOCÓ                  COLOCÓ                  COLOCÓ              
-    COLOCÓ                  COLOCÓ                  COLOCÓ              
-    COLOQUE                 COMENTARIO              COMENTARIOS         
-    COMIENZA                COMO                    COMO                
-    COMO                    COMO                    COMO                
-    COMO                    COMO                    COMO                
-    COMO                    COMPLETAR               COMPRIMA            
-    COMPRIMIDO              COMPUESTO               COMPUESTOS          
-    COMPUTADOR              CON                     CON                 
-    CON                     CON                     CON                 
-    CON                     CON                     CON                 
-    CONCEPTO                CONSIDERAR              CONSTAN             
-    CONSULTA                CONTENGAN               CONTIENE            
-    CONTIENE                CONTIENE                CONTINUACIÓN        
-    CONTINUACIÓN            CONTINUACIÓN            CONTRATÓ            
+    C                       CADA                    CALIFICACIÓN        
+    CALIFICARÁN             CARPETA                 CASO                
+    CATÓLICA                CAYÓ                    CELSIUS             
+    CHACLLA                 CIENCIAS                CIENTO              
+    CIN                     CINCO                   CIUDAD              
+    CIUDADES                CLARA                   CLARAMENTE          
+    CLASE                   CLIMA                   CLIMATOLÓGICOS      
+    CM                      COCHAN                  COHERENTES          
+    COLOCAR                 COLOCARÁ                COLOCO              
+    COLOCÓ                  COLOQUE                 COMENTARIO          
+    COMENTARIOS             COMIENZA                COMO                
+    COMPLETAR               COMPRIMA                COMPRIMIDO          
+    COMPUESTO               COMPUESTOS              COMPUTADOR          
+    CON                     CONCEPTO                CONSIDERAR          
+    CONSTAN                 CONSULTA                CONTENGAN           
+    CONTIENE                CONTINUACIÓN            CONTRATÓ            
     CORRESPONDIENTES        COUT                    CPP                 
-    CPP                     CREADA                  CREAR               
-    CRECIENDO               CREE                    CRITERIO            
-    CTEMPLABORATORIO        CUENTA                  CUESTIONARIO        
-    CURSO                   CURSO                   CÓDIGO              
-    CÓDIGO                  CÓDIGO                  CÓDIGO              
-    CÓDIGO                  CÓDIGO                  CÓDIGOS             
-    CÓMO                
+    CREADA                  CREAR                   CRECIENDO           
+    CREE                    CRITERIO                CTEMPLABORATORIO    
+    CUENTA                  CUESTIONARIO            CURSO               
+    CÓDIGO                  CÓDIGOS                 CÓMO                
     D
-    DADAS                   DATO                    DATO                
-    DATO                    DATOS                   DATOS               
-    DATOS                   DATOS                   DATOS               
-    DATOS                   DATOS                   DATOS               
-    DATOS                   DATOS                   DATOS               
-    DATOS                   DATOS                   DATOS               
-    DATOS                   DATOS                   DATOS               
-    DATOS                   DATOS                   DD                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DE                  
-    DE                      DE                      DEBE                
-    DEBEN                   DEBEN                   DEBEN               
-    DEBERÁ                  DEBERÁ                  DEBERÁ              
-    DEBERÁ                  DEBERÁ                  DEBERÁ              
-    DEBERÁN                 DEBIENDO                DEFINIÓ             
-    DEL                     DEL                     DEL                 
-    DEL                     DEL                     DEL                 
-    DEL                     DEL                     DEL                 
-    DEL                     DEL                     DEL                 
-    DEL                     DEL                     DEL                 
-    DEL                     DEL                     DEN                 
-    DESCONTARÁ              DESDE                   DESDE               
-    DESORDEN                DIFERENTES              DIFERENTES          
-    DINÁMICO                DISTINGUIRLOS           DISTINTOS           
-    DISTRITOS               DOCUMENTOS              DOMINGO             
-    DOS                     DOS                     DURACIÓN            
-    DURACIÓN                DURACIÓN                DURACIÓN            
-    DÉ                      DÍGITOS                 DÓNDE               
+    DADAS                   DATO                    DATOS               
+    DD                      DE                      DEBE                
+    DEBEN                   DEBERÁ                  DEBERÁN             
+    DEBIENDO                DEFINIÓ                 DEL                 
+    DEN                     DESCONTARÁ              DESDE               
+    DESORDEN                DIFERENTES              DINÁMICO            
+    DISTINGUIRLOS           DISTINTOS               DISTRITOS           
+    DOCUMENTOS              DOMINGO                 DOS                 
+    DURACIÓN                DÉ                      DÍGITOS             
+    DÓNDE               
     E
-    E                       EL                      EL                  
-    EL                      EL                      EL                  
-    EL                      EL                      EL                  
-    EL                      EL                      EL                  
-    EL                      EL                      EL                  
-    EL                      EL                      EL                  
-    EL                      ELEMENTO                ELIMINANDO          
-    ELLA                    EMPEZANDO               EMPLEAR             
-    EMPLEÓ                  EN                      EN                  
-    EN                      EN                      EN                  
-    EN                      EN                      EN                  
-    EN                      EN                      EN                  
-    EN                      EN                      EN                  
-    EN                      EN                      EN                  
-    EN                      EN                      EN                  
-    EN                      EN                      EN                  
-    EN                      EN                      EN                  
-    EN                      EN                      EN                  
-    EN                      ENCONTRADO              ENCONTRÓ            
-    ENLACE                  ENTERO                  ENTEROS             
-    ENTONCES                ENTRADA                 ERA                 
-    ERRORES                 ES                      ES                  
-    ESCALA                  ESCRIBA                 ESE                 
-    ESPACIOS                ESPACIOS                ESPACIOS            
-    ESTA                    ESTA                    ESTAR               
-    ESTAS                   ESTE                    ESTE                
-    ESTE                    ESTO                    ESTO                
-    ESTRUCTURA              ESTRUCTURA              ESTRUCTURA          
-    ESTRUCTURA              ESTRUCTURA              ESTUVIERA           
+    E                       EL                      ELEMENTO            
+    ELIMINANDO              ELLA                    EMPEZANDO           
+    EMPLEAR                 EMPLEÓ                  EN                  
+    ENCONTRADO              ENCONTRÓ                ENLACE              
+    ENTERO                  ENTEROS                 ENTONCES            
+    ENTRADA                 ERA                     ERRORES             
+    ES                      ESCALA                  ESCRIBA             
+    ESE                     ESPACIOS                ESTA                
+    ESTAR                   ESTAS                   ESTE                
+    ESTO                    ESTRUCTURA              ESTUVIERA           
     ESTÁN                   ESTÁNDAR                ETC                 
-    ETC                     ETC                     EXACTOS             
-    EXCEPTO                 EXISTE                  EXISTIR             
-    EXTENSIÓN           
+    EXACTOS                 EXCEPTO                 EXISTE              
+    EXISTIR                 EXTENSIÓN           
     F
     F                       FACULTAD                FAHRENHEIT          
-    FAHRENHEIT              FCI                     FECHA               
-    FECHA                   FECHA                   FECHA               
-    FERNANDO                FINAL                   FINAL               
-    FINALIZAR               FOPEN                   FORMATO             
-    FUNCIONES               FUNCIONES               FUNCIÓN             
-    FUNCIÓN                 FUNCIÓN                 FUNCIÓN             
-    FUNCIÓN             
+    FCI                     FECHA                   FERNANDO            
+    FINAL                   FINALIZAR               FOPEN               
+    FORMATO                 FUNCIONES               FUNCIÓN             
     G
     GENERALES               GEOGRÁFICA              GLOBALES            
     GRADOS                  GRAMÁTICA               GUANIRA             
-    GUARDAR                 GUARDAR                 GUARDARSE           
+    GUARDAR                 GUARDARSE           
     H
-    H                       H                       H                   
     H                       HABÍA                   HACERLO             
     HISTÓRICOS              HORARIO                 HORAS               
-    HUMEDAD                 HUMEDAD                 HUMEDAD             
     HUMEDAD             
     I
     IDENTIFICAR             IMPLEMENTA              IMPLEMENTACIÓN      
-    IMPLEMENTADAS           IMPLEMENTE              IMPLEMENTE          
-    IMPLEMENTE              IMPRIMIR                IMPRIMIR            
+    IMPLEMENTADAS           IMPLEMENTE              IMPRIMIR            
     INDICACIONES            INDIQUE                 INFLUIRÁ            
-    INFORMACIÓN             INFORMACIÓN             INGENIERÍA          
-    INSTITUTO               INT                     INTRANET            
-    INVESTIGACIÓN           IRÁN                
+    INFORMACIÓN             INGENIERÍA              INSTITUTO           
+    INT                     INTRANET                INVESTIGACIÓN       
+    IRÁN                
     J
     JOSE                    JOVEN                   JOYA                
     L
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LA                      LA                      LA                  
-    LABORATORIO             LABORATORIO             LAMENTABLEMENTE     
-    LAS                     LAS                     LAS                 
-    LAS                     LAS                     LAS                 
-    LAS                     LE                      LE                  
-    LE                      LECTURA                 LEER                
-    LEER                    LEERCIUDADES            LEERCIUDADES        
-    LENGUAJES               LLENAR                  LLENAR              
-    LO                      LO                      LO                  
-    LOS                     LOS                     LOS                 
-    LOS                     LOS                     LOS                 
-    LOS                     LOS                     LOS                 
-    LOS                     LOS                     LOS                 
-    LOS                     LOS                     LOS                 
-    LOS                     LOS                     LOS                 
-    LOS                     LOS                     LOS                 
-    LOS                     LOS                     LOS                 
-    LOS                     LOS                     LOS                 
-    LOS                     LUEGO                   LUEGO               
-    LUEGO                   LUEGO                   LUEGO               
-    LÍNEA                   LÍNEA                   LÍNEA               
-    LÍNEAS              
+    LA                      LABORATORIO             LAMENTABLEMENTE     
+    LAS                     LE                      LECTURA             
+    LEER                    LEERCIUDADES            LENGUAJES           
+    LLENAR                  LO                      LOS                 
+    LUEGO                   LÍNEA                   LÍNEAS              
     M
     M                       MAIN                    MAINCPP             
     MANEJAR                 MANEJO                  MANERA              
-    MANERA                  MARCA                   MARIA               
-    MARIA                   MATERIAL                MAYO                
-    MEDICIONES              MEMORIA                 MEMORIA             
-    MEMORIA                 MIGUEL                  MIGUEL              
-    MINUTOS                 MINUTOS                 MISMA               
+    MARCA                   MARIA                   MATERIAL            
+    MAYO                    MEDICIONES              MEMORIA             
+    MIGUEL                  MINUTOS                 MISMA               
     MISMO                   MM                      MUESTRA             
-    MUESTRA                 MUESTRA                 MÚLTIPLES           
+    MÚLTIPLES           
     N
     NATURALEZA              NI                      NO                  
-    NO                      NO                      NO                  
-    NO                      NO                      NOMBRE              
-    NOMBRE                  NOMBRE                  NOMBRES             
-    NOTAS                   NÚMERO                  NÚMERO              
+    NOMBRE                  NOMBRES                 NOTAS               
+    NÚMERO              
     O
-    O                       O                       O                   
-    O                       O                       O                   
     O                       OBJETOS                 OBLIGATORIAMENTE    
     ORDEN                   ORDENADA                ORTOGRAFÍA          
     OTRAS                   OTROS               
     P
     P                       PALABRAS                PARA                
-    PARA                    PARA                    PARA                
-    PARA                    PARTE                   PARTE               
-    PARTE                   PARTE                   PARTE               
-    PARTES                  PAÍS                    PE                  
-    PE                      PE                      PERO                
-    PERO                    PERSONA                 PERÍODOS            
-    PERÚ                    PESAR                   PIDE                
-    PLANTEADOS              POCO                    PODER               
-    PODRÁ                   PODRÍA                  PONTIFICIA          
-    POR                     POR                     POR                 
-    POR                     POR                     POR                 
-    POR                     POR                     POR                 
-    PORCENTAJE              PRACTICANTE             PRECEDIDA           
-    PRECIPITACIONES         PRECIPITACIÓN           PRECIPITACIÓN       
-    PREGUNTA                PREGUNTA                PREGUNTA            
-    PRESENTACIÓN            PRESENTEN               PRIMER              
-    PRIMERA                 PRIMERA                 PRIMERA             
-    PRIMERO                 PRIMERO                 PROBLEMA            
-    PROFESORES              PROGRAMA                PROGRAMACIÓN        
-    PROGRAMAS               PROPIAS                 PROYECTO            
-    PROYECTOS               PRÁCTICA                PRÁCTICA            
-    PUEDE                   PUEDEN                  PUEDEN              
-    PUNTAJE                 PUNTAJE                 PUNTOS              
-    PUNTOS                  PUNTOS                  PUNTOS              
-    PUSO                
+    PARTE                   PARTES                  PAÍS                
+    PE                      PERO                    PERSONA             
+    PERÍODOS                PERÚ                    PESAR               
+    PIDE                    PLANTEADOS              POCO                
+    PODER                   PODRÁ                   PODRÍA              
+    PONTIFICIA              POR                     PORCENTAJE          
+    PRACTICANTE             PRECEDIDA               PRECIPITACIONES     
+    PRECIPITACIÓN           PREGUNTA                PRESENTACIÓN        
+    PRESENTEN               PRIMER                  PRIMERA             
+    PRIMERO                 PROBLEMA                PROFESORES          
+    PROGRAMA                PROGRAMACIÓN            PROGRAMAS           
+    PROPIAS                 PROYECTO                PROYECTOS           
+    PRÁCTICA                PUEDE                   PUEDEN              
+    PUNTAJE                 PUNTOS                  PUSO                
     Q
-    QUE                     QUE                     QUE                 
-    QUE                     QUE                     QUE                 
-    QUE                     QUE                     QUE                 
-    QUE                     QUE                     QUE                 
-    QUE                     QUE                     QUE                 
-    QUE                     QUE                     QUE                 
     QUE                     QUEDAR                  QUIERE              
     QUIMPER             
     R
     REAL                    REDIRECCIONANDO         REGISTRE            
-    REGISTRO                REGISTRO                REGITRO             
-    RELEVANTES              RESPECTIVAMENTE         RESULTADOS          
-    RETURN                  RUTA                
+    REGISTRO                REGITRO                 RELEVANTES          
+    RESPECTIVAMENTE         RESULTADOS              RETURN              
+    RUTA                
     S
     S                       SABÍA                   SAN                 
-    SAN                     SAN                     SANTO               
-    SE                      SE                      SE                  
-    SE                      SE                      SE                  
-    SE                      SE                      SE                  
-    SE                      SE                      SE                  
-    SEGUIDO                 SEGUIDOS                SEGUNDA             
-    SEGUNDA                 SEGUNDA                 SEGUNDOS            
-    SEGUNDOS                SEGÚN                   SEMESTRE            
-    SER                     SER                     SERÁ                
-    SI                      SI                      SIEMPRE             
-    SIEMPRE                 SIGUIENTE               SIGUIENTE           
-    SILVESTRE               SIN                     SINTAXIS            
-    SOBRANTES               SOLO                    SOLUCIÓN            
-    SU                      SU                      SUS                 
+    SANTO                   SE                      SEGUIDO             
+    SEGUIDOS                SEGUNDA                 SEGUNDOS            
+    SEGÚN                   SEMESTRE                SER                 
+    SERÁ                    SI                      SIEMPRE             
+    SIGUIENTE               SILVESTRE               SIN                 
+    SINTAXIS                SOBRANTES               SOLO                
+    SOLUCIÓN                SU                      SUS                 
     SÍMBOLO                 SÚBALO              
     T
     T                       TA                      TAL                 
-    TAL                     TEMPERATURA             TEMPERATURA         
-    TEMPERATURA             TEMPERATURA             TEMPERATURA         
-    TEMPERATURAS            TERMINA                 TERMINADA           
-    TERMINAR                TEXTOS                  TIENE               
-    TIPO                    TOMARÁ                  TOTAL               
-    TRABAJO                 TRABAJOS                TRANSFORMAR         
-    TRIUNFO             
+    TEMPERATURA             TEMPERATURAS            TERMINA             
+    TERMINADA               TERMINAR                TEXTOS              
+    TIENE                   TIPO                    TOMARÁ              
+    TOTAL                   TRABAJO                 TRABAJOS            
+    TRANSFORMAR             TRIUNFO             
     U
-    UBICABA                 UN                      UN                  
-    UN                      UN                      UN                  
-    UN                      UN                      UNA                 
-    UNA                     UNA                     UNA                 
-    UNA                     UNA                     UNA                 
-    UNA                     UNA                     UNA                 
-    UNA                     UNA                     UNAS                
-    UNIVERSIDAD             USAR                    USO                 
-    USTED               
+    UBICABA                 UN                      UNA                 
+    UNAS                    UNIVERSIDAD             USAR                
+    USO                     USTED               
     V
-    VALORES                 VALORES                 VARIABLES           
-    VARIAS                  VECES                   VENIR               
-    VENÍAN                  VEZ                     VILLA               
-    VOID                    VOID                    VOLUMEN             
-    VOLUMEN                 VOLUMEN             
+    VALORES                 VARIABLES               VARIAS              
+    VECES                   VENIR                   VENÍAN              
+    VEZ                     VILLA                   VOID                
+    VOLUMEN             
     Y
-    Y                       Y                       Y                   
-    Y                       Y                       Y                   
-    Y                       Y                       Y                   
-    Y                       Y                       Y                   
-    Y                       Y                       Y                   
-    Y                       Y                       Y                   
+    Y                   
     VALORES ENTEROS
              0             1             2
              5             6             8
@@ -327,10 +161,6 @@
            110          1981          1983
           1986          2013          2016
           2348          5819          8491
-          8997          9883          1986
-          2013          2016          2016
-          2348          5819          8491
-          8491          8997          8997
           8997          9883
     VALORES DE PUNTO FLOTANTE
          0.490         0.500         0.557
