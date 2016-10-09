@@ -1,33 +1,24 @@
 ALUMNOS: 
 CODIGO ALUMNO   NOMBRE ALUMNO                                                COD ESPECILIDAD
 20067828        PRADO VERGEL CARLOS JULIAN                                   171491    
-                            30         27
+                            20         18
                         HIS384         13
                         HIS345         13
-                        HIS374          7
                         HIS374         14
                         HIS371         14
-                        HIS236          7
-                        HIS376          7
+                        HIS236         14
+                        HIS376         12
                         HIS242         12
-                        HIS376          6
                         HIS373         12
                         HIS379         14
                         HIS380         14
-                        HIS376          8
-                        HIS232         10
+                        HIS232         13
                         HIS381         13
-                        HIS236         14
                         HIS375         14
                         HIS383         12
                         HIS378         14
-                        HIS375          9
-                        HIS232         13
-                        HIS375          8
-                        HIS374         10
                         HIS382         12
                         HIS372         13
-                        HIS376         12
                         HIS377         12
 20110564        PAIRAZAMAN ALAMO MOISES MIGUEL                               171491    
                              5          1
@@ -75,124 +66,69 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         FIS246          9
                         FIS208          9
 20060658        REYES TANG EDWARD                                            107723    
-                           120        117
-                        IND251         11
+                            65         62
+                        IND251         18
                         INF630         14
                         CIS232         17
                         INF647         17
                         IOP225         12
                         INF246         12
-                        IND231          4
-                        INF291         12
+                        IND231         17
+                        INF291         16
                         INF371         15
                         INF281         13
                         INF355         18
                         INF238         18
                         INF372         16
-                        IDM201         13
+                        IDM201         14
                         ANT211         14
                         INF248         17
                         INF265         14
                         IND281         11
-                        INF355          7
                         INF274         17
                         FIL216         11
-                        INF391         15
-                        INF622          9
+                        INF391         17
+                        INF622         15
                         INF370         11
-                        INF220         14
-                        IND290         12
-                        INF372          6
-                        INF353         14
                         INF220         16
-                        INF248          5
-                        INF617          6
+                        IND290         18
+                        INF353         15
+                        INF617         15
                         TEL201         12
-                        ING220         13
-                        INF281          6
-                        IEE229         14
                         ING220         17
-                        INF355          7
-                        INF265         13
+                        IEE229         16
                         DER349         18
-                        IDM201         14
                         INF234         17
                         INF245         12
-                        IEE240         13
-                        INF356         12
-                        ARQ217         14
                         IEE240         14
+                        INF356         15
+                        ARQ217         14
                         INF378         16
-                        INF391         17
                         INF250         17
-                        INF248         14
-                        INF248          5
-                        FIL216          5
-                        INF226         11
-                        IND231          8
-                        INF248          7
+                        INF226         16
                         INF239         17
                         INF627         13
-                        IND231         17
                         INF639         15
-                        INF008         12
                         INF008         16
-                        INF273         12
+                        INF273         15
                         INF379         15
-                        IND231         16
                         INF263         17
-                        INF281          6
-                        IEE229         16
                         INF342         16
-                        INF226         16
                         IND273         16
-                        INF246         12
-                        INF234         11
                         INF392         17
-                        INF227         12
-                        INF392         11
-                        INF617         15
-                        INF281         12
-                        INF239         13
-                        IND231          7
-                        INF354          5
-                        INF282         14
-                        CIC602         13
-                        INF342         15
-                        INF356         15
-                        INF238         12
-                        INF355         16
-                        IND275         13
-                        INF377         12
-                        INF358         17
-                        IND251         18
-                        INF624         14
-                        INF291         16
-                        INF622         15
-                        INF295         13
-                        INF245         12
-                        IND273         12
-                        IND275         18
                         INF227         16
                         INF354         15
-                        IND231          5
-                        INF250         17
-                        DER349          4
-                        INF263         17
-                        INF273         15
-                        INF382         13
-                        INF354         12
-                        CIC621         11
-                        IND290         18
                         INF282         16
-                        INF353         15
-                        CIS232          4
-                        INF295         11
-                        INF281          6
+                        CIC602         13
+                        IND275         18
+                        INF377         12
+                        INF358         17
+                        INF624         14
+                        INF295         13
+                        INF382         13
+                        CIC621         11
                         CIC611         17
                         INF357         14
-                        TEL201         12
-                        INF274         12
 20060119        HENRIQUEZ ESPINO BEATRIZ                                     108523    
                              5          5
                         IEE256         11
@@ -201,7 +137,7 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         ING212          8
                         MEC265          9
 20110165        JUSTINO FORZANI ERICKA VICTORIA                              171491    
-                            55         53
+                            50         49
                         HIS401         13
                         HIS373         15
                         HIS376         13
@@ -215,8 +151,7 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         HIS371         14
                         HIS404         13
                         HIS386         15
-                        HIS376          8
-                        HIS374          9
+                        HIS374         14
                         HIS382         14
                         HIS389         14
                         HIS385         14
@@ -229,7 +164,6 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         HIS399         14
                         HIS375         14
                         HIS317         15
-                        HIS375         10
                         HIS397         14
                         HIS396         14
                         HIS379         15
@@ -248,8 +182,6 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         HIS398         13
                         HIS405         14
                         HIS383         15
-                        HIS374         14
-                        HIS232         10
                         HIS318         14
                         HIS650         14
                         HIS645         13
@@ -316,7 +248,7 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         EST218         18
                         ING212         14
 19993541        CERNA HIJAR JOSE ROLANDO                                     171491    
-                            60         59
+                            50         50
                         HIS378         16
                         HIS390         19
                         HIS392         20
@@ -325,7 +257,7 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         HIS389         18
                         HIS400         13
                         HIS666         19
-                        HIS377          7
+                        HIS377         18
                         HIS406         19
                         HIS381         13
                         HIS644         11
@@ -334,7 +266,7 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         HIS396         12
                         HIS372         13
                         HIS294         17
-                        HIS317         15
+                        HIS317         17
                         HIS650         17
                         HIS391         11
                         HIS680         16
@@ -346,7 +278,6 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         HIS402         15
                         HIS379         17
                         HIS385         15
-                        HIS242          9
                         HIS393         14
                         HIS686         17
                         HIS374         13
@@ -355,26 +286,18 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         HIS349         11
                         HIS383         16
                         HIS395         15
-                        HIS308         14
-                        HIS317         17
                         HIS645         18
-                        HIS242          5
                         HIS384         17
-                        HIS377         18
                         HIS382         13
-                        HIS377          7
                         HIS405         17
                         HIS404         20
                         HIS387         14
                         HIS236         20
                         HIS371         14
-                        HIS349         11
                         HIS375         18
                         HIS388         18
                         FIL324         14
-                        HIS666         14
                         HIS318         16
-                        HIS680         14
                         HIS376         11
 20083333        LANDEO SUELDO ADOLFO                                         108523    
                              5          4
@@ -461,35 +384,21 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         IND231         15
                         MEC269         16
 20027352        SHIRAKAWA ORTEGA ANGEL                                       107723    
-                            30         28
+                            15         14
                         IEE240         10
-                        IDM201          9
                         IDM201         11
                         IND231          8
                         INF008          9
                         IND290          9
                         IEE229         10
-                        IEE229          9
                         IND251         11
-                        INF246          9
+                        INF246         10
                         INF263         11
                         INF239          9
                         INF220         11
-                        INF246         10
-                        IEE240          6
-                        INF291          7
-                        IND251          6
-                        IND231          5
-                        IND290          8
-                        INF220          8
-                        INF263          6
-                        INF281         10
-                        INF008          8
                         INF291          8
+                        INF281         10
                         INF248          7
-                        INF281          6
-                        INF248          7
-                        INF239          7
 19980622        CABRERA CANALES GUILLERMO EDRIC                              108523    
                              5          3
                         IEE256         18
@@ -538,7 +447,7 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         FIS404         14
                         FIS208         11
 20100201        RAFFO ARIAS SURAMI ANNIE                                     155672    
-                            70         68
+                            60         58
                         CCE207         17
                         CCC269         13
                         CCC270         11
@@ -548,48 +457,41 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCC261         11
                         CCE212         12
                         CCC268         14
-                        CCE269          9
+                        CCE269         11
                         CCO202         12
                         CCC244         13
                         CCE222         15
-                        CCE271          9
+                        CCE271         14
                         CCC231         12
-                        CCO202          5
                         CCE354         12
                         CCC245         12
                         CCC239         12
                         CCC234         14
                         CCC241         13
-                        CCO363         10
+                        CCO363         13
                         CCE308         13
                         CCC250         13
-                        CCE269         11
                         CCO241         10
                         CCO221         11
                         CCC279         15
-                        CCO352          8
+                        CCO352         11
                         CCO361         16
                         CCC232         12
                         CCC238         11
                         CCE240         17
                         CCC251         14
-                        CCE270          9
+                        CCE270         15
                         CCE221         13
                         CCC256         11
-                        CCE271         14
                         CCC280         14
-                        CCO202          8
                         CCO222         12
                         CCC289         13
                         CCC278         11
                         CCC236         14
                         CCC267         14
-                        CCE270          9
                         CCO232         13
                         CCE356         17
-                        CCE270         15
                         CCC253         15
-                        CCO221          9
                         CCC257         12
                         CCC247         11
                         CCC235         11
@@ -597,11 +499,8 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCC242         13
                         CCE309         13
                         CCC240         11
-                        CCO352         11
                         CCC258         15
-                        CCE354          9
                         CCO203         17
-                        CCO363         13
                         CCO233         13
                         CCO351         11
                         CCE242         15
@@ -640,47 +539,36 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCO232         14
                         CCO363         17
 20050391        VEGA GARCIA JANET REBECA                                     107723    
-                            45         41
+                            30         30
                         ING220         14
                         INF008         12
                         TEL201         11
                         INF246         12
                         IEE229         11
                         INF226         13
-                        IDM201          7
+                        IDM201         11
                         IND251         13
                         IEE240         14
-                        INF008          9
                         INF274         13
                         IND290         12
                         IND273         12
                         INF291         11
                         INF281         12
-                        INF248          9
-                        INF250          9
-                        TEL201          7
-                        INF239          8
-                        INF291          7
+                        INF248         11
+                        INF250         14
+                        INF239         11
                         INF238         14
                         IND275         14
                         INF265         12
-                        INF281          9
-                        IDM201         11
-                        INF239         11
                         INF391         14
                         INF295         13
-                        INF282          8
+                        INF282         12
                         INF263         11
                         INF273         11
-                        INF265          9
                         IND231         11
                         INF227         13
-                        INF250         14
-                        INF248         11
-                        IND273          8
                         INF234         14
                         INF220         12
-                        INF282         12
                         INF245         13
 19980315        CHUNG LEE ALVARO                                             155672    
                             20         20
@@ -705,7 +593,7 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCE212         15
                         CCE242         15
 20010141        VELASQUEZ HUAYANAY EDGARD HENRY                              101171    
-                            45         44
+                            40         39
                         FIS249         15
                         HUM401         15
                         FIS309         14
@@ -715,14 +603,12 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         FIS203         12
                         FIS239         13
                         FIS245         11
-                        FIS255          7
                         FIS308         13
                         FIS324         14
                         FIS366         15
                         FIS240         11
-                        FIS218          7
-                        FIS401         13
                         FIS218         15
+                        FIS401         13
                         FIS229         14
                         LIN208         11
                         FIS313         11
@@ -735,17 +621,14 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         FIS246         11
                         ANT211         12
                         FIS219         13
-                        FIS254          9
                         FIS227         12
                         FIS220         14
                         FIS326         13
                         ING220         15
-                        FIS240          9
                         FIL216         15
                         CIS232         13
                         FIS338         11
                         FIS325         14
-                        MAT219          9
                         FIS247         14
                         MAT218         13
                         FIS208         14
@@ -799,11 +682,11 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         FIS248         10
                         FIS208         11
 20046665        DIAZ CORREA IRMA VIRGINIA                                    155672    
-                            65         61
+                            60         56
                         CCE356         12
                         CCE207         13
                         CCC252         12
-                        CCC245          5
+                        CCC245         12
                         CCC250         12
                         CCE223         14
                         CCE260         11
@@ -815,7 +698,7 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCE242         13
                         CCC334         17
                         CCE270         14
-                        CCE206          6
+                        CCE206         14
                         CCE205         14
                         CCO361         16
                         CCC256         16
@@ -825,7 +708,6 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCE218         16
                         CCE208         16
                         CCO233         14
-                        CCE206         14
                         CCE212         18
                         CCE308         17
                         CCC235         14
@@ -839,11 +721,9 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCE259         13
                         CCC232         11
                         CCE210         11
-                        CCE223         10
                         CCO222         12
                         CCE271         18
                         CCE354         11
-                        CCE208          9
                         CCE211         15
                         CCE213         15
                         CCO352         11
@@ -854,8 +734,6 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCE221         13
                         CCO241         17
                         CCC231         13
-                        CCC245         12
-                        CCC244          7
                         CCE204         15
                         CCE309         13
                         CCC257         13
@@ -1043,11 +921,11 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         HIS403         17
                         HIS377         16
 20080708        VASQUEZ PAZ ALEX MARTIN                                      171491    
-                            30         28
+                            25         23
                         HIS376         12
                         HIS345         10
                         HIS387         11
-                        HIS385          7
+                        HIS385         11
                         HIS374         10
                         HIS379         12
                         HIS373          9
@@ -1063,13 +941,8 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         HIS236          8
                         HIS371          7
                         HIS375          9
-                        HIS318         10
                         HIS318         12
-                        HIS385         11
-                        HIS387         11
                         HIS242          8
-                        HIS386         12
-                        HIS368          7
                         HIS372          9
                         HIS383          8
 20070461        PAREDES PATINO CHRISTIAN                                     108523    
@@ -1095,21 +968,20 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         INF237         14
                         EST218          9
 19990036        VALVERDE FLORES IRMA YDALI                                   155672    
-                            60         58
+                            55         53
                         CCO363         14
                         CCO234         13
                         CCE212         14
                         CCO232         14
                         CCE308         13
                         CCE210         14
-                        CCE240          5
+                        CCE240         13
                         CCE269         12
                         CCC268         11
                         CCC256         14
-                        CCE210          9
                         CCO203         13
                         CCE257         12
-                        CCO222          2
+                        CCO222         13
                         CCE270         13
                         CCE264         14
                         CCO351         12
@@ -1119,7 +991,7 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCE354         14
                         CCO233         14
                         CCC291         14
-                        CCO221          9
+                        CCO221         11
                         CCC286         12
                         CCE356         11
                         CCC257         12
@@ -1128,13 +1000,11 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCE271         14
                         CCE223         12
                         CCE222         14
-                        CCO222         13
-                        CCE208          7
+                        CCE208         11
                         CCE256         11
                         CCE309         12
                         CCE204         11
                         CCE215         11
-                        CCE240         13
                         CCE254         11
                         CCC267         11
                         CCO361         13
@@ -1142,62 +1012,53 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         CCC289         14
                         CCE206         11
                         CCO202         11
-                        CCE208         11
                         CCE207         12
                         CCE217         12
                         CCE242         11
                         CCE258         14
                         CCC258         13
                         CCC254         12
-                        CCO221         11
                         CCO352         12
                         CCO241         12
                         CCE213         14
                         CCE201         13
 19998980        CERNA PAIRAZAMAN FIORELLA MARGOT                             107723    
-                            65         64
-                        INF370          7
+                            55         51
+                        INF370         20
                         INF265         15
-                        INF263         10
+                        INF263         18
                         INF624         11
                         INF281         15
                         INF295         11
-                        INF358         10
-                        INF263          8
+                        INF358         20
                         ING220         16
-                        INF370         20
                         INF274         13
                         INF220         13
                         TEL201         18
-                        INF371          8
+                        INF371         14
                         FIL216         18
                         INF357         18
                         INF391         20
                         INF282         15
                         IDM201         12
                         INF246         11
-                        INF282          8
                         INF342         12
                         INF372         17
-                        INF371         14
-                        IEE240         10
+                        IEE240         14
                         INF622         14
                         INF234         20
                         IEE229         14
-                        INF263         18
                         INF273         19
                         INF639         20
                         INF226         19
                         INF291         16
                         INF227         18
-                        IEE240         14
                         INF376         15
                         INF377         11
                         IND281         15
                         IND231         12
                         INF239         17
                         INF353         19
-                        INF246          9
                         INF008         11
                         INF250         11
                         IND273         19
@@ -1206,20 +1067,14 @@ CODIGO ALUMNO   NOMBRE ALUMNO                                                COD
                         IND251         14
                         INF630         17
                         INF392         14
-                        IND273         10
-                        IND273         10
                         INF248         13
                         INF356         17
                         INF627         11
                         INF245         20
                         IND290         11
-                        INF358         20
                         INF354         15
-                        INF357          9
                         INF373         20
                         INF238         20
-                        INF356          7
-                        TEL201          8
 20110813        PALOMARES VERA HENRRY HUMBERTO                               108523    
                             20         20
                         ING225         11

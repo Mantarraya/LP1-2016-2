@@ -421,14 +421,27 @@ void insertarNotaYCurso(void *&alumno, char *codCurso, int nota){
 	int *arrNotas = (int *) regAlumno[4];
 	int *cantidades = (int *) regAlumno[5];
 		
-	arrCodCursos[cantidades[1]] = codCurso;
-	arrNotas[cantidades[1]] = nota;
-	cantidades[1] += 1;
-					
-	regAlumno[3] = arrCodCursos;
-	regAlumno[4] = arrNotas;
-	regAlumno[5] = cantidades;
+		
+	/* Buscamos si el curso a ingresar ya se encuentra */
+	int posCurso = buscarPosCurso(arrCodCursos, cantidades[1], codCurso);
 	
+	if (posCurso != -1){
+		
+		if (arrNotas[posCurso] < nota)
+			arrNotas[posCurso] = nota;
+		
+	}
+	else{
+				
+		arrCodCursos[cantidades[1]] = codCurso;
+		arrNotas[cantidades[1]] = nota;
+		cantidades[1] += 1;
+					
+		regAlumno[3] = arrCodCursos;
+		regAlumno[4] = arrNotas;
+		regAlumno[5] = cantidades;
+	
+	}
 	
 	alumno = regAlumno;
 	
