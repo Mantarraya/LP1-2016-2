@@ -1,0 +1,1572 @@
+CCE309        TALLER    DE PRODUCCION    TEATRAL 2                                      7
+INF353        ADMINISTRACION      DE     SISTEMAS OPERATIVOS                                4
+FIS249        MECANICA CLASICA    2                              4.5
+INF263        ALGORITMIA                                                                       3.75
+FIS229        TRABAJO      DE   INVESTIGACION                                       6
+INF640        PROCESO        DE    CONSTRUCCION         DE        SOFTWARE         2                      3
+HIS405        HISTORIA        DE    LA    POBLACION   Y   ETNICIDAD                     3
+CCE250        COMUNICACION       Y      PERSUASION                                                        3
+INF392       PROYECTO     DE TESIS     2                                                                 4
+HIS380        HISTORIA DEL        PERU          3. :   SIGLO   XVIII          E  INDEPENDENCIA              4
+CCO232      METODOS Y     TECNICAS DE     INVESTIGACION    2                                            4
+FIS248        MECANICA         CLASICA     1                                                            4.5
+ICA614        SIMULACION          DE      SISTEMAS                                 3
+CCC234        ARTES                 VISUALES                                                              2
+IND367        CREATIVIDAD         E      INNOVACION                                 3
+CCE212     HISTORIA      DEL    TEATRO    PERUANO                             3
+INF273        ADMINISTRACION        DE         LA         FUNCION  INFORMATICA                   3.5
+HIS401        HISTORIA          DEL  PRESENTE   Y       MEMORIA                                      3
+IND328        GESTION        DE PROYECTOS                                                                 3
+HIS242        HISTORIA       DEL         PERU      2:         SIGLOS          16      & 17          4
+IEE239        PROCESAMIENTO  DE        SENALES        E          IMAGENES     DIGITALES                   4
+INF384        TEMAS        AVANZADOS EN        INGENIERIA     DE   SOFTWARE       1                     3.5
+ARQ217        TECNOLOGIA     PREHISPANICA                                                                 3
+CCE216     VIDEO         1                                                                             5
+HIS374        HISTORIA    DE      AMERICA         ANTIGUA     Y      COLONIAL                   4
+CCC331      CINE           LATINOAMERICANO                                                              3
+CCE232        REALIZACION       DE     AUDIO     Y        VIDEO                       5
+MTR609        NANOTECNOLOGIA                                                                              3
+CCE217        PRODUCCION      PARA          MEDIOS          AUDIOVISUALES                 3
+FIS208        TEMAS   DE    FISICA         GENERAL                                                      4.5
+HIS349        HISTORIA DE        LA CIENCIA          Y          LA       TECNOLOGIA                       3
+MEC2M2      ELEMENTOS       DE MAQUINAS          2                                                    3.5
+INF372        GRAFICOS  EN   COMPUTACION                         4
+CCE223        ACTUACION 2                                        4
+INF342        SEMINARIO         DE INFORMATICA                     3.5
+IND235        GESTION    TECNOLOGICA                                                   3
+HIS382        ETNOHISTORIA          ANDINA      COLONIAL                                                  3
+INF622     BASE       DE        DATOS  1                                                  3
+MEC2M1        ELEMENTOS   DE          MAQUINAS        1                                                 4.5
+HIS372        HISTORIOGRAFIA    OCCIDENTAL                                                  3
+CCC269     TEATRO PERUANO                                            2
+CCO203        LENGUAJE       DE         LOS       MEDIOS                                                  4
+CCE206        ORGANIZACION        PUBLICITARIA                                3
+FIS246        LABORATORIO          DE   ELECTRONICA                                                       2
+CCE213        HISTORIA       DEL   CINE   1                                                               3
+HIS397        HISTORIA DE    LOS          ESTADOS   UNIDOS        DE         AMERICA                      3
+TEL201        TEORIA          DE       COMUNICACIONES                                                     4
+INF356        TECNOLOGIAS     WEB                                                                       3.5
+CCE219        OPINION       PUBLICA                                                  3
+MAT781   MATEMATICA         COMPUTACIONAL   PARA  CONTROL                             3
+CCE205        ANALISIS      MUSICAL                                                 2
+MTR606        METROLOGIA          Y   TECNICAS   DE   MEDICION                                            3
+CCE231     NARRACION  AUDIOVISUAL                                                                      4
+INF382        TEMAS          AVANZADOS        EN      SISTEMAS     DE        INFORMACION  1             3.5
+CCE201        FOTOGRAFIA                                                                                  4
+HIS381        HISTORIA     DEL    MUNDO    MODERNO                                             4
+FIS333    INTRODUCCION  AL          DISENO    OPTICO                                                  4
+CCE229        HISTORIA    DEL          CINE          2                                  3
+CIS232        SOCIOLOGIA          2                                                                       3
+ING301  MANUFACTURA INTEGRADA    POR        COMPUTADORA                                           3.5
+MEC320        OLEOHIDRAULICA    Y        NEUMATICA                                           3
+MEC209        MECANICA    DE         FLUIDOS                                                           5.25
+LIN208        LENGUA  Y  COMPOSICION                                            3
+CCC286        ECOLOGIA Y COMUNICACION                                                                     3
+FIS405        ELECTIVO        PARA   FISICA  5                                                3
+CCE247        ACTORES       SOCIALES     Y PUBLICOS                                                       3
+MEC250        RESISTENCIA DE MATERIALES        2                                             4.25
+INF281     LENGUAJE DE     PROGRAMACION        1                                                       5
+CCO202        TEORIAS       DE           LA         COMUNICACION                      3
+FIS240        TERMODINAMICA Y   MECANICA  ESTADISTICA                                                   4.5
+CCC245    FOTOGRAFIA             PERIODISTICA                                                         3
+MAT218        ECUACIONES      DIFERENCIALES  APLICADAS                      4.5
+MEC289        TURBOMAQUINAS         Y          MAQUINAS    DE         DESPLAZAMIENTO    POSITIVO       4.25
+CCE237        TALLER      DE IMAGEN     PUBLICITARIA                                                      4
+CCC258     PRINCIPIOS DE             DANZA                     3
+HIS392        SEMINARIO      DE          TESIS      2                                                     4
+INF377        SISTEMAS      DE      INFORMACION        GERENCIAL                4
+INF291      METODOS   Y    PROCEDIMIENTOS                   3.5
+INF248        SISTEMAS      DE   INFORMACION         1                                                    5
+HIS377        METODOLOGIA       DE    LA   INVESTIGACION       HISTORICA     2                3
+CCE261      TECNICAS          DE       GUION                                                            3
+CCE222        EXPRESION             ORAL Y   CORPORAL   1                                                 3
+INF234        MODELOS       Y SIMULACION   EMPRESARIAL                               3.5
+HIS390    ETICA     PROFESIONAL DEL         HISTORIADOR              2
+FIS326        TEMAS          DE FISICA        3                                                     4.5
+IND290        SEGURIDAD  INTEGRAL                                                  3
+MAT241        METODOS   NUMERICOS          EN     INGENIERIA                     3
+FIS404   ELECTIVO          PARA     FISICA        4                                                  3
+FIS402        ELECTIVO  PARA         FISICA  2                                                            3
+HIS386        HISTORIA DEL      MUNDO          CONTEMPORANEO                           4
+HIS388        SEMINARIO DE  TESIS          1                                                              4
+MTR216   LABORATORIO   DE          SENSORES          Y         ACTUADORES                            1
+CIC602        LENGUAJES   DE    PROGRAMACION                                                              3
+CCE260   RAZONAMIENTO  CREATIVO                                             3
+FIS328     TEMAS        DE     FISICA        5                                                       4.5
+CCC270        TELECOMUNICACIONES                                                                          3
+CCC250        INDICADORES                        SOCIALES                    2
+IDM201        IDIOMA    EXTRANJERO                                                                        0
+MEC373        METROLOGIA                  3
+MEC2T1        TERMOFLUIDOS                                                     4
+ICA618    CONTROL   NOLINEAL                                                                          4
+FIS255        ELECTROMAGNETISMO          2                                                              4.5
+HIS383        SEMINARIO      DE  INVESTIGACION         1: PERU        ANTIGUO         4
+HIS398        TEMAS DE         HISTORIA         DE   AMERICA                                              3
+MTR605        DISENO     E    INTEGRACION          DEL    SISTEMA    MECATRONICO            3
+IND251      GESTION     Y     DIRECCION          DE      EMPRESAS            3.5
+TEO240        TEOLOGIA    2              3
+CCC236        CIUDADANIA                Y             COMUNICACION                 3
+FIS239   ESTADO SOLIDO                                                                             4.5
+HIS389        HISTORIA         DEL         PERU          5:   1930       HASTA       LA          ACT      4
+CCE240   EXPRESION ORAL Y CORPORAL 2                                                                 5
+INF358        INNOVACION          Y      DESARROLLO                                                     3.5
+INF371        INTELIGENCIA ARTIFICIAL                                                                     4
+IEE229        ELECTRONICA     DIGITAL                                   3.75
+CCE228    REGISTRO   DE IMAGEN   Y    AUDIO                                                           4
+INF378        SISTEMAS EXPERTOS                                                                           4
+INF386        TEMAS AVANZADOS          EN TECNOLOGIA   DE      INFORMACION         1                    3.5
+INF383        TEMAS AVANZADOS   EN        SISTEMAS          DE    INFORMACION       2                     3
+CCE256    DISENO, EDICION    Y    PRODUCCION     EDITORIAL                                            4
+INF274        ADMINISTRACION  DE SISTEMAS  OPERATIVOS    Y  BASE          DE         DATOS                4
+FIS218        FISICA  MODERNA                 4.5
+IEE215        MAQUINAS       ELECTRICAS   1                         4.5
+CCC268  TEATRO            MUSICAL                                                                   2
+HIS680        SEM.    SOBRE      PENSAMIENTO         CULTURA  E        IDENTIDAD     LATINOAMERICANA      3
+MTR603        ROBOTICA    AVANZADA                                                                        3
+CCO351    SEMINARIO DE INVESTIGACION 1         4
+INF630        BASE  DE   DATOS          2                                    3
+MTR240        METODOLOGIA          DEL DISENO      MECATRONICO                                            3
+HIS375        HISTORIA    DE LA  FORMACION  DE  OCCIDENTE                 3
+HIS232        PALEOGRAFIA   Y  DIPLOMATICA                                                                3
+INF237        LENGUAJE          DE  PROGRAMACION     ORIENTADA    A      OBJETOS                          4
+HIS368        TEORIA   DE       LA      HISTORIA                                                          3
+MEC286      TRANSFERENCIA          DE         CALOR       4.25
+IND273        INVESTIGACION    OPERATIVA  1                                                               4
+CCC279        INTRODUCCION AL ENSAYO                            3
+INF265    APLICACIONES  DE       CIENCIAS          DE   LA          COMPUTACION                       4
+CCE249        EDICION          DE     VIDEO                                  4
+CCC292        PRODUCC.Y           REALIZAC .        DE MATERIAL.         AUDIOVISUALES    PARA EL DE      4
+FIS325      TEMAS  DE    FISICA     2           4.5
+CCE308        DIRECCION                    ESCENICA 2                5.5
+IND373        DESARROLLO EMPRENDEDOR                    3.5
+INF282      LENGUAJE         DE     PROGRAMACION     2                        5
+HIS394        TALLER DE FORMACION    PROFESIONAL                                                          3
+CCC238        CREACION           FOTOGRAFICA                  4
+CCC291        TALLER           DE ACTUALIZACION           EN         ACTUACION                            4
+FIL216        FILOSOFIA    2                                          3
+CCE238        TECNICAS          Y   ESTRATEGIAS        DE    MARKETING   2                                3
+MEC270        PROCESOS    DE        MANUFACTURA             4
+CCC244        FUENTES               DOCUMENTALES                                                          3
+CCC333        ESTRATEGIAS     Y         BRANDING        EN    LA          ERA         DIGITAL             3
+INF617        GESTION         DE     PROYECTOS        DE        SOFTWARE       3
+IEE314        TOPICOS     DE    INSTRUMENTACION         Y        CONTROL                                3.5
+MTR602        MODELAMIENTO     Y  SIMULACION       DE  SISTEMAS MECATRONICOS                              3
+CCC240        DIRECCION                   ARTISTICA          3
+CCE220   TECNICAS          Y   ESTRATEGIAS      DE  MARKETING          1                             3
+HIS373        HISTORIA      DEL    PERU   1: PERIODO       ANTIGUO                                        4
+INF250     SISTEMAS   DE INFORMACION         2             5
+CCC239        CREATIVIDAD                   3
+HUM401        ELECTIVO         DE        FORMACION     COMPLEMENTARIA                                     3
+HIS402        TEMAS   DE    HISTORIA CONTEMPORANEA                                   3
+CCC231        ACTUACION 3                      4
+ICA611        IDENTIFICACION    DE SISTEMAS               4
+HIS294        HISTORIA    DE       ESPANA  MEDIEVAL          Y    MODERNA                                 3
+CCC252     LITERATURA DRAMATICA 2                                                                      2
+CCO222        TECNOLOGIA     DE LA    INFORMACION                       4
+FIS338        SEMINARIO   DE          FISICA                                                              4
+CCC235        CANTO                                                                                       2
+IEE238     ELECTRONICA  BASICA                                                                         4
+FIS309        MECANICA       CUANTICA     2                                                             4.5
+CCE242        ESPACIO     ESCENICO                                                                        3
+MTR250        PROYECTO        DE   DISENO         MECATRONICO            6
+FIL324      FILOSOFIA         DE          LA HISTORIA                                                   4
+IEE223        CIRCUITOS         ELECTRICOS                                                                5
+INF238        REDES       DE      COMPUTADORAS                         4
+INF357        INTELIGENCIA     DE          NEGOCIOS                                                     3.5
+INF220        FUNDAMENTOS      DE          PROGRAMACION                           5
+FIS227   PARTICULAS         ELEMENTALES                                                            4.5
+IND293        SEGURIDAD INTEGRAL    Y   GESTION     AMBIENTAL                                             4
+CCE248        DISENO      Y       GESTION          DE         PROYECTOS DE      COMUNICACION         4
+FIS403        ELECTIVO     PARA          FISICA     3                                                     3
+HIS317    HISTORIA DE        LA         IGLESIA   EN     EL      PERU Y       AMERICA          L      3
+FIS203        FISICA         4                  4.5
+FIS245        ELECTRONICA                 4
+MEC2T2        INTRODUCCION AL   DISENO DE         MAQUINAS                                              4.5
+IEE312        ELECTRONICA  DE         POTENCIA                                 3.5
+INF647        INTERACCION   PERSONA-COMPUTADOR            3
+CCE239        PRODUCCION          PUBLICITARIA                                                            3
+CCO241        GESTION EMPRESARIAL                     3
+CCE221        DRAMATURGIA      1                                                                          3
+MTR607        AUTOMATIZACION       DE      LA          FABRICACION                                        3
+ING341        TOPICS         ON     ADVANCED      ROBOTICS                                                3
+ING212        DINAMICA                                                                                    5
+IND294    SISTEMAS       INTEGRADOS    DE          PRODUCCION                                         3
+CCO352        LEGISLACION             EN            COMUNICACIONES                                        2
+CCO361        SEMINARIO   DE            INVESTIGACION           2                                         4
+IEE240        ORGANIZACION  Y          ARQUITECTURA       DE      COMPUTADORAS                            5
+CCE356        TENDENCIAS TEATRALES CONTEMPORANEAS               3
+MEC267    INGENIERIA          DE  MATERIALES                        4
+INF295        PLANEAMIENTO      ESTRATEGICO        EN  INFORMATICA                                      3.5
+HIS396        TEMAS  DE  HISTORIA   PERUANA            3
+ANT211        ANTROPOLOGIA                                            3
+HIS645        SEMINARIO       DE    HISTORIA          ECONOMICA    DE    AMERICA   LATINA                 3
+CCC267        TEATRO              LATINOAMERICANO                2
+CCC241        ECONOMIA             PARA           PERIODISTAS                            3
+INF389        TEMAS        AVANZADOS      EN       COMPUTACION             3
+EST218        ESTADISTICA    PARA   INGENIERIA               3.5
+INF387        TEMAS AVANZADOS EN      TECNOLOGIA    DE     INFORMACION      2                             3
+MEC315        DINAMICA   APLICADA                        3
+MTR361        MANTENIMIENTO     MECATRONICO                                                               3
+HIS387        SEMINARIO   DE    INVESTIGACION         3:     PERU   REPUBLICANO                           4
+CCC334        TALLER DE          DISENO    WEB            4
+CCE264        PERIODISMO      DE    INVESTIGACION                  4
+INF373  TEORIA DE  COMPILADORES                                                                     4
+MTR202        PRACTICA       SUPERVISADA       PRE-PROFESIONAL                  0.5
+CCE215        ILUMINACION                4
+CCC289 RESPONSABILIDAD   SOCIAL,   CONCERTACION Y   MANEJO   DE   CONFLICTOS                       3
+CCC242        ESTUDIOS           DE                 CONSUMO      2
+IEE315        AUDIO                        3.5
+INF639    PROCESO   DE   CONSTRUCCION        DE       SOFTWARE        1                               3
+IND369        GESTION    DEL      CONOCIMIENTO                                                            3
+MTR218        HERRAMIENTAS          DE  SIMULACION        3
+ICA601        CONTROL     POR     COMPUTADORA                   4
+CCE270        TALLER      DE    PRODUCCION     TEATRAL 1                                                  7
+CCE251        COMUNICACION      INTERCULTURAL          3
+CCC278        COMUNICACION                     POLITICA                  3
+IEE207        ARQUITECTURA       DE  COMPUTADORAS                                                       3.5
+HIS650        SEMINARIO        DE         HISTORIA  SOCIAL          LATINOAMERICANA                       3
+MTR604        PROGRAMAC.      E    IMPLEMEN.       DE      EQUIPOS   PARA   APLICAC.     MECATRONICA      3
+CCE214   ANALISIS         CINEMATOGRAFICO         2
+MAT219        HERRAMIENTAS    MATEMATICAS       DE        LA        FISICA                              4.5
+FIS335        ACUSTICA                                     4
+INF385        TEMAS          AVANZADOS          EN       INGENIERIA DE       SOFTWARE          2          3
+HIS385        HISTORIA     DEL       PERU        4: SIGLO  XIX  (1839-1930)                               4
+FIS219        SISTEMAS          ELECTROMAGNETICOS Y    OPTOELECTRONICOS                                 4.5
+INF370        CALIDAD      DE       SOFTWARE                                                              3
+DER349      DERECHO        PARA      INGENIEROS       INFORMATICOS                                      3
+MEC269        LABORATORIO       DE     TERMODINAMICA         Y     FLUIDOS                                1
+CCE230        DIAGNOSTICO     Y   ESTRATEGIA  COMUNICACIONAL          4
+HIS406        HISTORIA DE        LAS         MUJERES    Y     DE          GENERO                          3
+INF245        INGENIERIA  DE          SOFTWARE               4
+CCC253        MAQUILLAJE              Y           CARACTERIZACION          2
+MTR601      MECANICA     DE         PRECISION         Y       MICROMECANICA        3
+INF379        SEGURIDAD,     CONTROL Y    AUDITORIA       DE      SISTEMAS      DE    INFORMACION         4
+HIS666        SEMINARIO       SOBRE         HISTORIA        REGIONAL               3
+CCE226        COMUNICACION       PARA EL      DESARROLLO  1:  PERSPECTIVAS        TEORICAS     3
+CCC296        EL CLIENTE PUBLICITARIO:             TECNICAS DE NEGOCIACION                3
+MEC2T3      LABORATORIO   DE        INTRODUCCION          AL        DISENO     DE       MAQUINAS        1
+FIS313        FISICA  EXPERIMENTAL   2                            4
+INF226        DESARROLLO DE     PROGRAMAS   1                        3
+FIS254   ELECTROMAGNETISMO       1                         4.5
+MEC284        CONTROL     AUTOMATICO                                                                   4.25
+CCE235        PERIODISMO    INTERPRETATIVO       Y   DE  OPINION                                          3
+HIS236        HISTORIOGRAFIA PERUANA                                                                      3
+IEE256        SISTEMAS       DIGITALES               5.5
+IND281        INVESTIGACION      OPERATIVA        2                                                       4
+FIS327        TEMAS DE       FISICA       4                   4.5
+HIS686   SEMINARIO      SOBRE DEMOGRAFIA HISTORICA                                                   3
+CCO363        ESTETICA   Y  COMUNICACION                                                                  3
+INF227        DESARROLLO        DE        PROGRAMAS    2                                                  3
+CCE258        PERIODISMO     TELEVISIVO                                                                   5
+CCE257        PERIODISMO  RADIAL                   4
+CCE241        RADIO       1                                                                               4
+CCE253    HISTORIA    DEL     PERIODISMO                                                              2
+FIS366        ELECTROACUSTICA                                                                           3.5
+ICA600        TEORIA  DE SISTEMAS         LINEALES                                                        4
+IND231        INGENIERIA          ECONOMICA                                                             3.5
+CCC254    MARKETING        DE             SERVICIOS                                                   4
+IEE217        SISTEMAS          ELECTRICOS                                                              3.5
+IEE245        TEORIA DE       CONTROL  2                                                                  5
+HIS395        HISTORIA       DEL  PENSAMIENTO  Y          LA       CULTURA         POLITICOS              3
+CCE218        INFORMACION   PERIODISTICA            3
+ING220  ETICA PROFESIONAL                                                                           2
+IEE218        LABORATORIO   DE         SISTEMAS      ELECTRICOS                                           1
+IEE208        LABORATORIO        DE        ARQUITECTURA         DE         COMPUTADORAS                   1
+CCE207        HISTORIA    DEL ESPECTACULO     TEATRAL     1                                               2
+HIS399        TEMAS  DE       HISTORIA MUNDIAL                                                            3
+CCC261    REALIZACION             DOCUMENTAL         4
+INF355        SEGURIDAD       COMPUTACIONAL                                                               3
+HIS376        FUENTES        HISTORICAS                                                                   3
+HIS308        HISTORIA         DE  LAS     RELIGIONES                                                     3
+FIS308        MECANICA  CUANTICA      1                                  4.5
+HIS393        SEMINARIO          INTERDISCIPLINARIO                                                       3
+MTR343        TECNOLOGIAS     DE  AUTOMATIZACION                                     3.5
+INF388        TEMAS        AVANZADOS     EN    INGENIERIA DE     COMPUTADORAS      1                    3.5
+MEC206    TERMODINAMICA          1                                       4.5
+CCE208        TEORIAS Y      POLITICAS     DEL   DESARROLLO                                               3
+CCE259        DISENO   PERIODISTICO       E      INFOGRAFIA                                               4
+CCO221        METODOS        Y TECNICAS         DE  INVESTIGACION 1                                       4
+HIS404        HISTORIA         ANDINA     REPUBLICANA                                                     3
+MEC208        TERMODINAMICA     2                    4.5
+FIS312        FISICA  EXPERIMENTAL       1                                                                4
+HIS400        HISTORIA       DEL     ARTE                3
+CCE252    REDACCION     PERIODISTICA                                                                  3
+MTR608        VISION     POR      COMPUTADORA                        3
+CCC298        COMUNICACION               BTL                        4
+CCC232        ANALISIS SEMIOTICO DE LA                IMAGEN                                              3
+CCE211        MEDIOS       AUDIOVISUALES                     3
+INF239    SISTEMAS      OPERATIVOS                           4
+HIS371        METODOLOGIA        DE     LA        INVESTIGACION      HISTORICA     1                      3
+CCE271        DRAMATURGIA 2                 4
+CCE254        FUENTES   Y ESTRUCTURA   DEL          ESTADO               3
+CCC251        LITERATURA DRAMATICA 1            2
+CCO233           DEONTOLOGIA    DE     LA    COMUNICACION              2
+CIC611     MATEMATICAS PARA   COMPUTACION            3
+MEC328        PROCESOS   INDUSTRIALES    E   INSTRUMENTACION          3
+HIS403        CORRIENTES Y          TEMATICAS        DE     LA     HISTORIOGRAFIA     CONTEMPORANEA       3
+CCO234    SEMIOTICA    PARA      COMUNICACIONES       3
+IND275        CONTROL    DE     GESTION  INDUSTRIAL          4.5
+IOP225        TEORIA    DE      COLAS           3.5
+FIS220    TECNICAS   COMPUTACIONALES   EN        FISICA         4.5
+CCC297        PUBLICIDAD          INTERACTIVA                                                             3
+CIC621        ALGORITMOS   3
+MEC313        VIBRACIONES                  3
+IEE216        LABORATORIO     DE      MAQUINAS ELECTRICAS  1     0.5
+ING225    RESISTENCIA       DE          MATERIALES        1          5
+HIS379        HISTORIA        DEL  MUNDO    MEDIEVAL           3
+INF391        PROYECTO   DE TESIS         1         2
+MEC265        TALLER    DE      PROCESOS       DE       MANUFACTURA      2
+INF627        PROGRAMACION   EN          EL         SISTEMA   UNIX        3
+HIS644        SEM.       DE     HISTORIA         DE    LOS  MOVIMIENTOS          Y      PARTIDOS          3
+FIS247        OPTICA        Y    FOTONICA                  4.5
+HIS345        HISTORIA    ECONOMICA          3
+CCC257        POLITICAS          DE             COMUNICACION          3
+INF354        SISTEMAS     MULTIMEDIA           3.5
+CCC280        TALLER DE CRONICA PERIODISTICA                      3
+FIS230        TEORIA      DE          CAMPOS    ELECTROMAGNETICOS                    3
+INF008        PRACTICA      SUPERVISADA   PREPROFESIONAL              0.5
+CCC247        HISTORIA              DEL       ESPECTACULO             TEATRAL         2                   3
+INF624        ARQUITECTURA        DE COMPUTADORAS           3
+HIS378        HISTORIA    DE   AMERICA         CONTEMPORANEA:  SIGLOS     XIX       A      XXI            4
+HIS318        HISTORIA         SOCIAL              3
+FIS324        TEMAS        DE   FISICA    1                        4.5
+INF246        BASES   DE          DATOS                             3.75
+MAT202        SERIES    Y      TRANSFORMADAS                                                            3.5
+MTR280    TRABAJO         DE    FIN         DE      CARRERA                    6
+IND232        ELABORACION   Y    EVALUACION DE     PROYECTOS                                            3.5
+CCE354        PROYECTO DE ARTES ESCENICAS                                                                 7
+CCC295        SELECCION Y     EVALUACION DE    MEDIOS       AVANZADO                                      3
+HIS384    SEMINARIO        DE   INVESTIGACION          2:     PERU        COLONIAL                    4
+CCE204        ACTUACION      1                                                                            4
+CCE210        PERSUASION                        3
+FIS401        ELECTIVO PARA   FISICA       1                                       3
+HIS391    HISTORIA  CULTURAL   Y       DE    MENTALIDADES          3
+CCC256        PERIODISMO                  DEPORTIVO            3
+CCE269 DIRECCION    ESCENICA     1          4.5
+INF376        SISTEMAS     DISTRIBUIDOS                  4
+  20067828          PRADO          VERGEL          CARLOS       JULIAN           171491
+  20110564          PAIRAZAMAN      ALAMO        MOISES   MIGUEL           171491
+  19980667          CHUMPITAZ IBEROS   RONAL                                     155672
+  20019778     AQUINO      TORO    VALENTINA ROCIO               101171
+  20060658          REYES     TANG       EDWARD                                  107723
+  20060119       HENRIQUEZ        ESPINO      BEATRIZ                    108523
+  20110165          JUSTINO FORZANI       ERICKA       VICTORIA                  171491
+  20064217      CABRERA LUNA  SHIRLEY         ISABEL          155672
+  20097877          SHIRAKAWA    MIRANDA       MADELEINE                         107723
+  20020476       CORONEL    CHUMPITAZ       HELI                              108523
+  19993541          CERNA        HIJAR     JOSE ROLANDO           171491
+  20083333      LANDEO SUELDO    ADOLFO              108523
+  20109738          ARROYO   GORDILLO MARIA     HELI                 107723
+  20070596        MORALES     VALVERDE        INES        MARTHA               108523
+  20027352          SHIRAKAWA      ORTEGA         ANGEL           107723
+  19980622    CABRERA         CANALES         GUILLERMO         EDRIC      108523
+  20060735          NORABUENA PRECIADO       CINTHIA          101171
+  20100201          RAFFO   ARIAS     SURAMI        ANNIE            155672
+  20090888          ROMERO       PALOMARES   GLORIA         TATIANA              155672
+  20050391          VEGA    GARCIA  JANET  REBECA       107723
+  19980315          CHUNG LEE   ALVARO              155672
+  20010141          VELASQUEZ        HUAYANAY         EDGARD       HENRY         101171
+  20050743    CERNA    DURAND       MARTIN              101171
+  20043300          PINTO    CALIXTO      SHIRLEY                                155672
+  20052529          CORRALES       TSUKAZAN      IRMA       LOURDES              101171
+  20046665          DIAZ CORREA       IRMA       VIRGINIA                        155672
+  20020158          PEREZ     FARFAN        RICHARD     SANDRO                   155672
+  20090107          HERNANDEZ        BARRIOS  EMILIO                             107723
+  20078092    INGA FLORES    CESAR       ADOLFO                            101171
+  20013723          ARCA     AMEZQUITA        EDRIC     RONALD        108523
+  19990844          SALAS      AGUERO     DANIEL                                 101171
+  20020441          DIAZ     ANTEZANO        MAGALI      SILVANA       107723
+  20003172     FORZANI         CARO      ALONSO                             107723
+  20030695          FERNANDEZ     ORTEGA         ELIZABETH    ELIZABETH          171491
+  20080708          VASQUEZ       PAZ     ALEX      MARTIN     171491
+  20070461          PAREDES PATINO        CHRISTIAN              108523
+  19990036       VALVERDE    FLORES      IRMA         YDALI      155672
+  19998980          CERNA          PAIRAZAMAN          FIORELLA      MARGOT      107723
+  20110813          PALOMARES  VERA   HENRRY        HUMBERTO         108523
+  20015236        WONG      MARTEL         MADELEINE          107723
+  20060051          VILLA    YALLICO    TATIANA   NANCY         171491
+CCE356      20046665        12
+HIS401   20110165     13
+IEE256      20013723        14
+CCO363 19990036        14
+HIS376        20080708       12
+ING220      20050391      14
+INF370   19998980         7
+INF008      20050391    12
+FIS402   20060735        12
+CCE221      19980667         6
+HIS345         20080708        10
+IDM201      20060735        11
+HIS378      19993541        16
+CCO363    19980667         7
+INF265      19998980        15
+HIS373          20110165    15
+INF282      20090107        15
+CIC621      20097877        11
+FIS254    20078092        10
+IND251      20060658     11
+IDM201      20050743         9
+IEE256      20070461       10
+CCC258   20064217         9
+CCE207      20046665        13
+FIS312      20060735     11
+INF630    20060658        14
+CCE207      20100201        17
+INF385      20003172        12
+HIS680      20030695        16
+FIS227   20078092         9
+ING225      20110813        11
+CCO232      20020158    12
+HIS387      20080708        11
+CIS232   20060658      17
+IEE256      20020476         6
+CCC269      20100201      13
+CCC270      20100201        11
+INF263      19998980        10
+TEL201  20003172     16
+INF647      20060658        17
+HIS376      20110165        13
+FIS249      20010141        15
+IEE240      20027352    10
+HIS392   20030695        16
+CCO234      19990036        13
+IEE239      20070596        14
+HUM401      20010141        15
+IOP225    20060658     12
+INF624      19998980        11
+CCO203      20064217         9
+CCC252  20046665    12
+CCE204      19980315        13
+CCO234      20100201        15
+IDM201      20027352         9
+HIS384     20110165        15
+CCC245     20046665         5
+HIS390      19993541     19
+CCC250      20046665        12
+INF246      20060658     12
+HIS371      20030695        13
+INF281      19998980        15
+CCO203   19980667         8
+IEE256      20060119        11
+CCE240      20064217         9
+CCE212     19990036        14
+IND231      20060658         4
+FIL216      20060735        14
+CCE223      20046665     14
+CCO241      20043300        13
+TEL201     20050391        11
+IDM201   20070461        10
+HIS384      20067828        13
+CCC252    20100201        12
+INF295      19998980        11
+CCE260      20046665        11
+INF248      20109738         9
+HIS385      20080708         7
+IDM201     20027352        11
+INF239      20109738         8
+FIS254  20019778   11
+CCO232      19990036        14
+FIS220      20050743        12
+CCE204      20100201        13
+HIS392      19993541        20
+EST218      20060119        15
+HIS393      20030695        11
+CCO351      20064217        10
+CCO351  20043300     12
+INF392      20003172        15
+IEE240      20015236        12
+IEE240      20090107        14
+CCE261      20046665        12
+CCC261      20100201        11
+IND231   20027352       8
+HIS345      20030695        13
+IND251      20109738         9
+INF291      20060658        12
+CCE212      20100201        12
+CCC268      20100201        14
+INF371      20060658        15
+TEL201      20097877        10
+CCC254      20064217        13
+HIS390      20110165        13
+HIS345      20067828        13
+HIS236      20030695        14
+INF246   20050391     12
+HIS242   20110165     13
+MEC289      20070596        11
+CCE308      19990036        13
+CCE269      20100201  9
+INF008      20027352         9
+CCO202      20100201        12
+FIS249   20060735        13
+IEE229      20050391        11
+CCE222      19980315        15
+FIS239      20060735    11
+INF281    20060658        13
+FIS309      20010141        14
+CCC244      20100201        13
+CCE222      20100201        15
+HIS374      20080708        10
+CCE210      19990036     14
+INF358      19998980        10
+CCE271      20100201         9
+FIS309      20060735        15
+INF265      20090107        15
+INF355     20060658      18
+IEE239      20070461        13
+INF622     20003172        15
+CCC231      20100201        12
+INF226    20050391        13
+CCE221      20090888        16
+HIS402      20110165        14
+IDM201      20050391         7
+CCE219      20046665        14
+IEE256      19980622        18
+HIS308      20030695        11
+CCE214      20046665        15
+INF238      20060658        18
+CCO202      20100201         5
+HIS372      20030695        15
+INF263      19998980         8
+HIS232      19993541        16
+CCE354   20100201   12
+IEE223      20083333        12
+HIS397      20030695        11
+CCO363      20046665        14
+INF384      20003172        12
+FIS338      20060735        12
+INF372      20060658        16
+HIS395      20110165        13
+CCC244      20046665        18
+IEE256    20110813        13
+CCC245      20100201     12
+IDM201      20060658        13
+MEC267      20070461        11
+ANT211      20060658        14
+CCE308      20043300        10
+CCE242      20046665     13
+CCC239      20100201        12
+HIS380    19993541        20
+FIS335      20010141        13
+IND231     20015236      12
+HIS389      19993541        18
+CCE222      20043300        11
+EST218      20070596        13
+CCE204   19980667      13
+FIS255      20078092        12
+INF295      20097877        10
+HIS372      20060051         9
+HIS379      20080708        12
+IEE315  20070596 16
+CCE240      19990036         5
+ING220      19998980        16
+IND251      20003172        13
+CCE309      19980667    13
+CCE308      20020158        13
+CCE207      19980667         6
+CCC234   20100201        14
+IDM201      20078092        14
+MEC2T1      20070596       15
+FIS255      20010141        13
+CCC241      20100201        13
+CCC334      20046665        17
+INF370      19998980        20
+HIS400      19993541        13
+CCE270      20046665        14
+IND251      20050391        13
+CCE269      19990036        12
+INF248      20060658        17
+HIS373      20080708         9
+INF391      20097877        14
+HIS666      19993541        19
+IEE245      20070596        15
+CCE223      20020158        11
+INF246      20003172        14
+CCC268      19990036        11
+INF265      20060658        14
+CCC256   19990036        14
+IND281      20060658        11
+INF238      20097877        12
+HIS374      20067828         7
+HIS374   20067828        14
+IDM201      20109738         8
+IEE240      20050391        14
+HIS371     20067828        14
+IDM201      20090107        13
+FIS248      20010141        15
+IND328   20070596        14
+HIS377      19993541         7
+INF355      20060658         7
+CCE206      20046665         6
+HIS391      20110165      15
+CCE308      19980667        13
+CCC247      20090888        12
+INF238      20109738         9
+MEC265      20070461        10
+MEC270    20070596        11
+CCE309      20090888        15
+HIS406      19993541        19
+FIS333      20060735        16
+INF274      19998980        13
+IND290      20027352    9
+HIS378      20060051        16
+EST218      19980622        17
+FIS208  19990844        15
+HIS349      20110165   13
+CCE210      19990036         9
+INF220      19998980        13
+CCO203      19990036        13
+HIS371      20110165        14
+FIS203      20010141   12
+FIS218   20050743         8
+INF274      20060658        17
+CCE223      19980667        10
+IEE238      20070461        11
+INF245      20097877        14
+CCE205      20046665        14
+CCE222      20090888        12
+FIS239      20010141        13
+FIL216      20060658        11
+INF391      20060658        15
+HIS382      20080708         8
+INF246      20015236        13
+HIS402      20030695        14
+INF008      20090107        11
+IND273      20109738        12
+INF265      20003172        14
+CCO241      19980667         9
+CCE257      19990036        12
+INF622      20060658         9
+IND231      20070461        12
+FIS401      20060735        12
+CCE221      19980315        14
+CCO363      20100201        10
+HIS373      20030695      12
+CCO221      19980667        11
+INF234      20097877        14
+FIS245      20010141        11
+INF008    20050391         9
+HIS404      20110165        13
+INF370      20060658        11
+HIS386      20110165        15
+HIS376      20110165         8
+HIS374      20110165         9
+CCO222      19990036     2
+CCE308      20100201        13
+HIS236      20067828         7
+CCE269      20090888        12
+HIS232    20030695     19
+CCO233      20043300        12
+CCE223      20064217         9
+MEC2T2      20110813        15
+FIS308      20078092         9
+TEL201      19998980        18
+FIS255      20010141         7
+FIS220      20060735        16
+INF220      20060658        14
+IND290      20060658        12
+INF372      20060658         6
+INF371      19998980         8
+CCE270      19990036        13
+IEE218      20070596        14
+HIS385      20030695        19
+CCE223   20090888    13
+INF353      20060658        14
+CCO361      20046665        16
+MEC2T3      20070461        12
+CCE264      19990036     14
+HIS382      20110165        14
+INF263      20090107        15
+HIS376      20067828         7
+CCO202      20090888        13
+CCO363      19980315        11
+CCO221      20090888    16
+CCC242      20020158         6
+FIS227      20060735        12
+INF220      20060658        16
+FIS308      20010141        13
+CCE240      19980667        13
+FIL216  19998980     18
+HIS394      20030695        19
+CCC231      19980667         6
+INF357      19998980        18
+INF391      19998980        20
+INF282      19998980        15
+INF248      20060658         5
+IDM201      19998980   12
+INF274      20050391        13
+INF239      20003172        15
+INF220      20003172   13
+IEE229  20027352        10
+MEC265      20070596        13
+CCC250      20100201        13
+CCO203      20043300        11
+FIS247      20060735        16
+HIS389      20110165        14
+INF281      20090107        11
+FIS203      19990844        12
+CCC256      20046665        16
+CCE242      19980667         7
+HIS381      19993541        13
+CCE269      20100201        11
+CCO351      19990036        12
+FIS240      20050743         6
+INF617      20060658         6
+HIS242      20067828        12
+IEE229      20027352         9
+CCC261      19990036        11
+HIS644      19993541        11
+CCE221      19990036        11
+CCO221      20064217        12
+HIS380      20030695        19
+HIS386      19993541        20
+TEL201      20060658        12
+HIS385      20110165        14
+CCE240      20046665        14
+CCE216      19990036        13
+CCE356      19980667         8
+INF246      19998980        11
+CCE264      20046665        17
+INF282      19998980         8
+INF226      20097877        12
+CCE204      20090888        14
+CCC234      20046665        17
+MTR216      20110813        12
+MEC2T2      20070461        12
+CCO241      19980315         8
+INF624      20003172        16
+HIS378      20110165        13
+IND273      20097877        11
+CCO241      20064217        11
+INF250  20090107    13
+CCE354      19990036        14
+CCE218      20046665        16
+HIS401      19993541        15
+HIS376  20067828     6
+ING220      20060658        13
+INF291      20090107        14
+INF227      20003172        12
+IND251      20027352        11
+HIS396      19993541        12
+HUM401      20060735        14
+CCO233      19990036        14
+CCE208      20046665        16
+HIS372      19993541        13
+HIS317      20030695        18
+FIS312      20078092        11
+CCC253      20064217        14
+FIS203      20052529        11
+INF342   19998980    12
+INF372      19998980        17
+HIS294      19993541        17
+ING225      20070596        14
+TEL201      20090107        13
+HIS317      19993541     15
+CCO222      20064217        11
+CCC252      20064217        11
+CCO241      20100201        10
+INF246      20027352         9
+INF281      20060658         6
+IEE229      20060658        14
+INF371      19998980        14
+ING220      20060658        17
+IND290      20050391        12
+HIS373      20067828        12
+INF295      20003172        16
+IND273      20050391        12
+HIS650      19993541        17
+ING301      20110813        17
+HIS345      20110165        15
+INF263      20027352        11
+INF239      20027352         9
+CCE269      20064217        10
+INF291      20050391        11
+CCO221      20100201        11
+ANT211      20097877        10
+INF355      20060658         7
+IEE240      19998980        10
+HIS377      20080708        12
+FIS208      20078092         9
+INF386      20003172        15
+ING212      20083333         9
+INF265      20060658        13
+CCC231      20043300        10
+FIS248      20019778         9
+DER349      20060658        18
+INF281      20050391        12
+HIS379      20067828        14
+MAT219      20019778        11
+CCO222      19980315        14
+CCO233      20046665        14
+IND290      20109738        12
+INF265      20097877        11
+HIS406      20110165        15
+ING220      20070596        16
+ING220      20109738         8
+MEC270      20110813        18
+CCO202      20043300        14
+HIS394      20110165        13
+HIS391      19993541        11
+IDM201      20060658        14
+CCC279      20100201        15
+CCE206      20046665        14
+INF622      19998980        14
+CCO352      20100201         8
+CCO361      20100201        16
+CCO232      19980315         7
+CCC232      20100201        12
+CCO203      20090888        13
+HIS680      19993541        16
+HIS242      19993541        14
+INF220      20027352        11
+INF245      20003172        14
+CCO233      19980315        13
+CCC291      19990036        14
+CCO221      19990036         9
+CCE212      20046665        18
+FIS246      20060735        16
+FIS324      20010141        14
+INF234      20060658        17
+FIS366      20010141        15
+CCE270      19980315        13
+MAT219      20060735        14
+CCC238      20100201        11
+CCE240      20100201        17
+HIS368      20080708        12
+CCE308      20046665        17
+HIS388      20110165        13
+HIS378      20030695        18
+HIS378      20080708        12
+CCO361      19980667        11
+INF282      20003172        13
+FIS312      20050743         9
+INF234      19998980        20
+INF245      20060658        12
+INF376      20003172        13
+HIS392      20110165        13
+INF246      20027352        10
+IEE240      20060658        13
+CCE222      20020158        11
+INF237      20110813        17
+IEE240      20027352         6
+CCO241      20020158         6
+HIS373      19993541        14
+CCC234      20020158         9
+CCC286      19990036        12
+MTR250      20070596        12
+HIS379      20030695        14
+FIS246      20078092         8
+IEE208      20070596        15
+HIS399      20110165        14
+FIS246      20050743        10
+IEE229      19998980        14
+INF356      20060658        12
+HIS394      19993541        18
+INF248      20050391         9
+MTR216      20070596        15
+INF265      20109738        10
+INF250      20050391         9
+FIS248      20052529        10
+ING220      20097877        10
+HIS380      20067828        14
+CCE356      19990036        11
+ARQ217      20060658        14
+CCE212      20043300        13
+CCO234      20043300        13
+HIS375      20110165        14
+INF388      20003172        13
+CCC245      20090888        13
+HIS317      20110165        15
+HIS384      20080708         9
+MTR216      20070461         8
+CCC235      20046665        14
+CCC251      20046665        11
+IEE223      20060119         8
+CCC257      19990036        12
+IEE240      20060658        14
+IND231      20003172        15
+INF239      20090107        15
+CCE356      20020158         9
+CCE214      19990036        12
+CCC251      20100201        14
+IEE216      20070596        14
+INF383      20003172        14
+HIS376      20067828         8
+TEL201      20050391         7
+MAT241      20070596        15
+FIS245      20078092         8
+INF378      20060658        16
+INF391      20060658        17
+INF248      20090107        13
+HIS375      20110165        10
+INF377      20003172        16
+FIS240      20010141        11
+FIS218      20010141         7
+HIS236      20060051         7
+CCO234      20090888        16
+IDM201      20110813         6
+FIS335      20060735        14
+INF250      20060658        17
+CCC241      20020158         9
+INF291      20027352         7
+INF237      20070596        11
+INF008      20003172        12
+CCC232      20090888        14
+CCE205      19990036        14
+FIS401      20010141        13
+HIS397      20110165        14
+HIS396      20110165        14
+CCE270      20100201         9
+INF248      20060658        14
+FIS230      20070596        12
+CCO232   20046665        11
+FIS218      20010141        15
+HIS381      20080708         9
+HIS368        19993541                       20
+HIS373  20060051        10
+CCC256      20064217             9
+HIS308      19993541        17
+IND251      20027352         6
+CCE242      20090888     13
+CCE240   19980315         8
+INF263      19998980        18
+INF617      20003172        14
+FIS240      20078092        14
+HIS379             20110165                   15
+IND231      20027352         5
+FIS203      20019778        11
+IND293      20070461        11
+CCE271      19990036        14
+IND290             20027352         8
+INF248      20060658         5
+INF273      20097877        11
+FIL216      20060658         5
+CCO234      20046665        17
+FIS220      20078092        10
+CCE223      19990036        12
+FIS229   20010141   14
+HIS318      20030695        17
+CCE222      19990036        14
+INF226      20060658        11
+CCO221      20046665        12
+ANT211      20060735        14
+CCE271      20064217         9
+CCC235      20090888        15
+HIS402      19993541        15
+CCE354      20020158         8
+CCE221      20100201        13
+IND231      20060658         8
+CCC253               20046665                     14
+FIS308      20060735        15
+CCO222      19990036        13
+HIS379      19993541        17
+HIS385      19993541                      15
+TEL201      20109738        10
+MEC284      20070596        14
+CCE271      19980315        12
+IND293      20110813        17
+CCC245      20043300        13
+CCC256      20100201                          11
+INF273      19998980        19
+INF639      19998980        20
+CCE212      20020158        11
+CCE208      19990036         7
+INF248      20015236        12
+CCE207      20020158         7
+INF239      20050391         8
+FIS255      20060735        14
+CCE256      19990036        11
+INF226      19998980        19
+LIN208      20010141        11
+INF291      19998980        16
+INF008      20109738         9
+HIS380  20080708    12
+INF373   20003172      14
+HIS232      20110165   13
+CCE271      20100201    14
+INF248      20060658         7
+HIS232      20080708        11
+CCE271      20020158        12
+INF291      20050391         7
+IEE238      20070596                       15
+MEC286      20070596        11
+MAT202      20070596        16
+CIS232      20097877        12
+INF239      20060658        17
+CCE222      20046665        16
+INF627      20060658        13
+INF220      20027352         8
+INF238      20050391        14
+HIS242      19993541         9
+CCO234      19980667         9
+CCO234      19980315         7
+IND294      20070596        14
+CCC280      20100201        14
+INF263      20027352         6
+CCE271               20043300                      12
+CCO233      19980667        12
+IND275      20050391        14
+CCE207      20064217        13
+IND231      20060658        17
+CCE269      19980667        12
+CCO202      20100201                            8
+INF639      20060658        15
+CCO222      20100201        12
+HIS375      20060051        16
+FIS313      20010141        11
+CCE207      20043300        12
+INF227      19998980        18
+FIS254      20010141        14
+INF008      20060658        12
+INF265      20050391        12
+HIS386      20030695        12
+HIS393      19993541        14
+INF008      20060658        16
+CCE309      19990036        12
+IND273      20003172        15
+IEE240      19998980        14
+HIS232      20067828        10
+HIS686      19993541        17
+CCC289      20100201        13
+FIS312                    20010141        12
+TEO240      20010141        12
+CCC278      20100201        11
+INF281      20050391         9
+MTR218      20070461        11
+ING212      20070461                       11
+HIS406      20030695        13
+CCE204      19990036        11
+INF376      19998980        15
+HIS372      20110165        14
+INF245      20109738         8
+HIS400      20110165        13
+INF273      20060658        12
+INF248      20003172        11
+CCE308      20064217        14
+FIS333      20010141        12
+HIS371      20060051        15
+FIS229      20060735        12
+EST218      20083333         8
+CCC236      20100201        14
+MEC2T1      20110813        14
+INF377      19998980        11
+INF220      20020441         5
+CCE215      19990036        11
+IND281      19998980        15
+HIS374      19993541        13
+HIS390      20030695        17
+HIS294      20110165        13
+INF379      20060658        15
+HIS403      20110165        15
+INF273      20003172        16
+HIS345      19993541        11
+HIS375      20030695        18
+HIS381      20067828        13
+IEE240      20109738        11
+IDM201      20050391        11
+FIS255      20050743        10
+CCE269      20046665        15
+FIS208      20052529        11
+TEO240      20060735        11
+INF239      20050391        11
+INF281      20027352        10
+CCE259      20046665        13
+CCC247      20043300        12
+CCC232      20046665        11
+IND231      19998980        12
+MEC265      20110813        10
+HIS368      20030695        17
+MEC209      20070596        16
+INF227      20097877        12
+MTR218      20070596        11
+IND231      20060658        16
+IEE229      20003172        13
+INF263      20060658        17
+HIS403      19993541        16
+INF263      20109738        12
+INF239      19998980        17
+INF353      19998980        19
+IEE207      20070596        14
+ING225      20070461        13
+HIS386      20080708        12
+INF372      20003172        11
+INF234      20003172        14
+HIS645      20030695        17
+FIS203      20078092        11
+HIS383      20030695        16
+INF391      20050391        14
+CCE210      20046665        11
+MAT219      20010141        11
+ING212      20060119         8
+CCC251      20064217        12
+MEC2T2      20070596        14
+CCO202      19980315         8
+INF246      19998980         9
+ING301      20070596        11
+CCE223      20046665        10
+INF281      20060658         6
+IEE229      20060658        16
+IND275      20003172        11
+CCO202      20064217         9
+INF342      20060658        16
+HIS384      20030695        19
+CCC232      20043300        10
+CCO222      20046665        12
+INF627      20003172        13
+INF226      20060658        16
+IND273      20060658        16
+INF008      19998980        11
+CCE223      19980315        12
+FIS254      20060735        11
+INF250      19998980        11
+CCE240      19990036        13
+MAT219      20050743        10
+IND273      19998980        19
+CCC267      20100201        14
+ING212      20110813         9
+INF008      20027352         8
+HIS377      20110165        14
+CCC251      20043300        13
+CCE270      20043300        14
+CCO222      20090888        14
+HIS236      20067828        14
+CCC231      20020158        11
+MTR218      20110813        12
+HIS644      20030695        14
+CCE270      20100201         9
+INF246      20060658        12
+INF234      20060658        11
+HIS375      20067828        14
+INF391      20003172        15
+MEC265      20060119         9
+HIS383      20067828        12
+FIS324      20060735        13
+CCE269      20043300        12
+INF291      20027352         8
+IEE238      20110813        17
+INF392      20060658        17
+CCE271      20046665        18
+INF246      20109738        12
+INF355      19998980        19
+INF295      20050391        13
+CCE254      19990036        11
+CCE309      20020158        10
+HIS236      20080708         8
+MTR240      20070596        12
+ARQ217      20010141        15
+CCO363      20064217        13
+INF382      20003172        12
+CCC232      19980667        11
+HIS349      19993541        11
+MAT219      20078092         9
+CCO232      20100201        13
+FIS240      20060735        12
+HIS383      19993541        16
+CCE356      20100201        17
+CCE270      20100201        15
+CCE354      20046665        11
+HIS395      19993541        15
+CCE269      20020158        13
+FIS403      20060735        11
+FIS246      20010141        11
+INF227      20060658        12
+IEE240      20003172        13
+HIS381      20030695        14
+INF370      20003172        15
+INF282      20050391         8
+HIS242      20060051        16
+INF263      20050391        11
+HIS396      20030695        14
+IND275      19998980        16
+CCE208      20046665         9
+ANT211      20010141        12
+IND251      19998980        14
+ARQ217      20097877        13
+INF392      20060658        11
+CCO202      20020158        11
+INF617      20060658        15
+INF281      20060658        12
+INF630      19998980        17
+HIS644      20110165        15
+FIS245      20050743         6
+CCE309      20043300        13
+INF291      20109738        12
+INF281      20003172        16
+FIS203      20050743         6
+INF378      20003172        12
+HIS308      19993541        14
+CCC267      19990036        11
+INF239      20060658        13
+FIS219      20010141        13
+FIS249      20050743         8
+CCO203      20020158         8
+FIS218      20078092         8
+CCE223      20043300        14
+INF273      20050391        11
+CCO361      20020158         6
+CCC251      20090888        16
+HIS378      20067828        14
+IEE223      20070461         9
+HIS317      19993541        17
+IEE223      20020476        13
+HIS371      20080708         7
+IND275      20109738        10
+INF282      20109738         9
+FIS366      20060735        15
+HIS645      19993541        18
+FIL324      20030695        14
+HIS387      20110165        13
+HIS242      19993541         5
+INF263      20003172        14
+FIS254      20050743         6
+CCC231      20090888        12
+INF226      20003172        14
+CCE211      20046665        15
+HIS388      20030695        18
+IND231      20060658         7
+INF392      19998980        14
+HIS294      20030695        14
+INF354      20060658         5
+INF282      20060658        14
+HIS375      20067828         9
+MEC270      20070461         8
+IND232      20070596        15
+MAT218      20019778         9
+INF281      20109738         8
+HIS375      20080708         9
+FIS247      20078092        10
+CCC253      20100201        15
+CCE213      20046665        15
+FIS254      20010141         9
+IND273      19998980        10
+MTR280      20070596        15
+MEC2T1      20070461        13
+CIC602      20060658        13
+MEC250      20070596        12
+CCE308      20090888        12
+CCO361      19990036        13
+INF371      20003172        12
+FIS247      20050743        11
+HIS318      20080708        10
+CCE270      20064217        12
+HIS384      19993541        17
+HIS236      20110165        15
+INF342      20060658        15
+HIS308      20110165        13
+FIS245      20019778        13
+FIS248      20050743        10
+HIS377      20060051         7
+CCE211      19990036        14
+IEE238      20020476        12
+ING301      20070461        10
+INF265      20050391         9
+CCE204      20020158        13
+INF356      20060658        15
+IND231      20050391        11
+INF238      20060658        12
+CCC250      20090888        14
+FIS227      20010141        12
+HIS232      20067828        13
+FIS220      20010141        14
+IDM201      20070596        13
+FIS326      20010141        13
+CCO221      20100201         9
+HIS377      19993541        18
+INF371      20070596        14
+IND231               20109738        12
+HIS380      20110165                 14
+INF355      20060658        16
+CCC257      20100201        12
+CCC247      20100201        11
+CCO234      20064217        10
+ING220      20010141        15
+CCO352      20046665        11
+INF227      20050391        13
+CCC289      19990036        14
+IND275      20060658        13
+CCO234      20020158         9
+HIS232      20060051        13
+HIS382      19993541        13
+HIS393      20110165        15
+CCE206      19990036        11
+IND273      19998980        10
+INF377      20060658        12
+HIS376      20060051        14
+CCO202      19990036        11
+INF248      19998980        13
+CCE309      20064217         9
+INF358      20060658        17
+HIS398      20110165        13
+INF291      20003172        15
+INF387      20003172        12
+HIS405      20110165        14
+IEE256      20070596        16
+INF220      20109738         9
+HIS399      20030695        17
+CCE354      19980667         8
+FIS240      20010141         9
+FIS248      20078092         8
+CCC254             20046665                14
+INF250      20050391        14
+HIS391      20030695        13
+HIS377      19993541         7
+CCE208              19990036                 11
+HIS383      20110165        15
+FIS248      20060735        12
+HIS405      19993541        17
+INF630      20003172        13
+CCC235      20100201        11
+MEC265      20020476        15
+CCE223      20100201        15
+CCE207      19990036        12
+HIS389      20030695        18
+IND251      20060658        18
+HIS376      20030695        15
+IEE229      20109738        10
+INF248      20050391        11
+EST218      20110813         6
+FIS249      20019778                11
+CCO351      20046665        13
+CIC611      20097877        12
+INF356            19998980        17
+INF624      20060658        14
+CCO233      20020158        12
+ARQ217      20060735        11
+INF238      20003172        13
+CCO202      20046665        12
+CCE217      19990036        12
+HIS318      20080708        12
+CCE242      19990036        11
+CCE201      20046665        16
+IEE312      20070596        16
+INF389      20003172        15
+IND273      20050391         8
+MAT218      20060735        11
+INF291      20060658        16
+CCC242      20100201        13
+FIS313      20060735        11
+INF622      20060658        15
+CCE258      19990036        14
+INF234      20050391        14
+INF237      20070461        14
+INF295      20060658        13
+CCC258      19990036        13
+INF245      20060658        12
+HIS404      19993541        20
+CCE309      20100201        13
+INF248      20027352         7
+CCE204      20064217        13
+IEE217      20070596        16
+IND273      20060658        12
+IND275      20060658        18
+HIS374      20110165        14
+CCC240      20100201        11
+HIS375      20067828         8
+INF227      20060658        16
+HIS349      20030695        11
+INF627      19998980        11
+HIS385      20080708        11
+CCO352      20100201        11
+IND293      20070596        11
+MEC2T3      20110813        14
+HIS405      20030695        19
+CCO222      19980667        12
+CCE270      20090888        14
+FIL216      20010141        15
+CCC254      19990036        12
+HIS404      20030695        11
+HIS387      19993541        14
+HIS236      19993541        20
+FIS309      20078092        11
+FIS218      20060735        14
+FIS249              20078092                 14
+MEC267      20110813        17
+HIS232      20110165        10
+ING220      20003172        14
+CCC258      20100201        15
+HIS395      20030695                 18
+HIS371      19993541        14
+CCO221      19990036        11
+INF245      19998980        20
+HIS242      20030695        16
+LIN208      20060735        11
+INF250      20003172        13
+CCO352      19980667         6
+HIS374      20067828        10
+CCE269      19980315        12
+MAT218      20050743         9
+HIS349      19993541        11
+FIS203      20060735        13
+CCO361      20064217        10
+CIC602      20097877        13
+INF354      20060658        15
+CCO233      20090888        18
+HIS382      20030695        12
+HIS387      20080708        11
+CIS232      20010141        13
+CCE270      19980667        13
+IND231      20060658         5
+IND231      20090107        15
+INF250      20060658        17
+INF250      20109738        10
+CCE354      20100201         9
+IEE239      20110813        14
+CCC234      20090888        17
+MEC2T3      20070596        14
+INF220      20050391        12
+INF281      20027352         6
+HIS318      20110165        14
+HIS382      20067828        12
+INF248      20027352         7
+IND251      20070596        12
+CCE212      20090888        17
+CCE207      19980315        12
+DER349      20060658         4
+CCO352      20020158        13
+HIS242      20080708         8
+IND290      19998980        11
+INF263      20060658        17
+CCO203      20100201        17
+INF273      20060658        15
+IND275      20097877        10
+INF382      20060658        13
+INF354      20060658        12
+CCO203      19980315        13
+HIS386      20080708        12
+INF379      20003172        14
+CCE221      20046665        13
+ING212      20070596        11
+CIC621      20060658        11
+HIS371      20110564        12
+CCO241      20046665        17
+IND290      20060658        18
+CCC250      20043300        14
+CCO352      19990036        12
+HIS368      20080708         7
+CCO363      20100201        13
+CCO241      19990036        12
+FIS246      20019778         9
+INF358      19998980        20
+HIS398      20030695        13
+HIS387      20030695        12
+CCO233      20100201        13
+INF263      20015236        10
+CCE222      19980667         6
+HIS374      20060051         7
+FIS338      20010141        11
+HIS375      19993541        18
+CCO221      19980315        12
+IEE223      20070596        13
+IEE215      20070596        13
+IND235      20070596        13
+IND231      20110813        11
+HIS372      20067828        13
+INF392      20097877        11
+HIS374      20030695        17
+INF354      19998980        15
+HIS388      19993541        18
+INF234      20109738        11
+CCO241      20090888        15
+INF274      20097877        11
+INF357      19998980         9
+FIL324      19993541        14
+CCE240      20090888        12
+CCC231      20046665        13
+FIS245      20060735        15
+FIS325      20010141        14
+MEC2M1      20070596        14
+MEC267      20070596        15
+IDM201      20003172        16
+INF282      20060658        16
+IEE223      19980622        18
+CCC245      20046665        12
+INF239      20027352         7
+HIS666      19993541        14
+INF353      20060658        15
+CCC234      20043300        10
+CCE213      19990036        14
+ING220      20060735        11
+CCE271      20090888        12
+CCE212      19980315        15
+FIS208      20019778         9
+MTR202      20070596        12
+CCO232      19980667        10
+INF282      20050391        12
+HIS372      20080708         9
+CCC244      20046665         7
+FIS208      20050743        12
+HIS318      19993541        16
+CCO351      20020158        13
+CCE271      19980667        11
+CCO351      20100201        11
+CIS232      20060658         4
+CCC257      20064217        11
+CCE204      20046665        15
+INF373      19998980        20
+IEE256      20083333        11
+CCE309      20046665        13
+MAT219      20010141         9
+MAT218      20078092        12
+CCC232      20020158        11
+HIS376      20067828        12
+IND231      20070596        15
+INF282      20097877        11
+INF295      20060658        11
+INF238      19998980        20
+INF245      20050391        13
+CCO202      19980667         6
+CCE207      20090888        17
+FIS247      20010141        14
+INF356      19998980         7
+HIS680      19993541        14
+IEE223      20110813         9
+CCE242      20100201        15
+HIS650      20110165        14
+CIS232      20060735        16
+EST218      20020476        18
+INF281      20060658         6
+CCE242      19980315        15
+FIS219      20060735        14
+IND273      20090107        13
+FIS313      20078092        13
+CCC257      20046665        13
+HIS645      20110165        13
+CCC247      20046665        15
+HIS383      20080708         8
+CCO203      20046665        18
+TEL201      19998980         8
+FIS404      20060735        14
+MAT218      20010141        13
+HIS377      20067828        12
+CCC286      20100201        13
+CIC611      20060658        17
+MEC269      20070596        16
+CCE201      19990036        13
+CCO232      20090888        14
+HIS368      20110165        14
+FIS208      20010141        14
+CCC254      20100201        11
+IND290      20003172        15
+INF639      20003172        12
+CCO363      20090888        17
+INF274      20003172        16
+CCE212      19980667        11
+EST218      20070461         9
+HIS403      20030695        17
+HIS377    20030695      16
+FIS208      20060735        11
+CCO351      19980667         9
+HIS381      20110165      15
+INF357      20060658        14
+CCE222      20064217        11
+HIS376      19993541        11
+TEL201      20060658        12
+CCE204      20043300        14
+IDM201      20010141        12
+INF274      20060658        12
+CCE270      20020158        11
+ING212      20020476        14
+    155672       ARTES ESCENICAS                        188
+  107723          INGENIERIA INFORMATICA         170
+    171491      HISTORIA              158
+  101171    FISICA                        150
+    108523        INGENIERIA MECATRONICA        168

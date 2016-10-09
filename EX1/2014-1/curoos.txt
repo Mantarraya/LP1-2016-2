@@ -1,0 +1,348 @@
+CURSOS: 
+CODIGO CURSO    NOMBRE CURSO                                                 CREDITOS CURSO
+CCE309          TALLER DE PRODUCCION TEATRAL 2                               7.0       
+INF353          ADMINISTRACION DE SISTEMAS OPERATIVOS                        4.0       
+FIS249          MECANICA CLASICA 2                                           4.5       
+INF263          ALGORITMIA                                                   3.8       
+FIS229          TRABAJO DE INVESTIGACION                                     6.0       
+INF640          PROCESO DE CONSTRUCCION DE SOFTWARE 2                        3.0       
+HIS405          HISTORIA DE LA POBLACION Y ETNICIDAD                         3.0       
+CCE250          COMUNICACION Y PERSUASION                                    3.0       
+INF392          PROYECTO DE TESIS 2                                          4.0       
+HIS380          HISTORIA DEL PERU 3. : SIGLO XVIII E INDEPENDENCIA           4.0       
+CCO232          METODOS Y TECNICAS DE INVESTIGACION 2                        4.0       
+FIS248          MECANICA CLASICA 1                                           4.5       
+ICA614          SIMULACION DE SISTEMAS                                       3.0       
+CCC234          ARTES VISUALES                                               2.0       
+IND367          CREATIVIDAD E INNOVACION                                     3.0       
+CCE212          HISTORIA DEL TEATRO PERUANO                                  3.0       
+INF273          ADMINISTRACION DE LA FUNCION INFORMATICA                     3.5       
+HIS401          HISTORIA DEL PRESENTE Y MEMORIA                              3.0       
+IND328          GESTION DE PROYECTOS                                         3.0       
+HIS242          HISTORIA DEL PERU 2: SIGLOS 16 & 17                          4.0       
+IEE239          PROCESAMIENTO DE SENALES E IMAGENES DIGITALES                4.0       
+INF384          TEMAS AVANZADOS EN INGENIERIA DE SOFTWARE 1                  3.5       
+ARQ217          TECNOLOGIA PREHISPANICA                                      3.0       
+CCE216          VIDEO 1                                                      5.0       
+HIS374          HISTORIA DE AMERICA ANTIGUA Y COLONIAL                       4.0       
+CCC331          CINE LATINOAMERICANO                                         3.0       
+CCE232          REALIZACION DE AUDIO Y VIDEO                                 5.0       
+MTR609          NANOTECNOLOGIA                                               3.0       
+CCE217          PRODUCCION PARA MEDIOS AUDIOVISUALES                         3.0       
+FIS208          TEMAS DE FISICA GENERAL                                      4.5       
+HIS349          HISTORIA DE LA CIENCIA Y LA TECNOLOGIA                       3.0       
+MEC2M2          ELEMENTOS DE MAQUINAS 2                                      3.5       
+INF372          GRAFICOS EN COMPUTACION                                      4.0       
+CCE223          ACTUACION 2                                                  4.0       
+INF342          SEMINARIO DE INFORMATICA                                     3.5       
+IND235          GESTION TECNOLOGICA                                          3.0       
+HIS382          ETNOHISTORIA ANDINA COLONIAL                                 3.0       
+INF622          BASE DE DATOS 1                                              3.0       
+MEC2M1          ELEMENTOS DE MAQUINAS 1                                      4.5       
+HIS372          HISTORIOGRAFIA OCCIDENTAL                                    3.0       
+CCC269          TEATRO PERUANO                                               2.0       
+CCO203          LENGUAJE DE LOS MEDIOS                                       4.0       
+CCE206          ORGANIZACION PUBLICITARIA                                    3.0       
+FIS246          LABORATORIO DE ELECTRONICA                                   2.0       
+CCE213          HISTORIA DEL CINE 1                                          3.0       
+HIS397          HISTORIA DE LOS ESTADOS UNIDOS DE AMERICA                    3.0       
+TEL201          TEORIA DE COMUNICACIONES                                     4.0       
+INF356          TECNOLOGIAS WEB                                              3.5       
+CCE219          OPINION PUBLICA                                              3.0       
+MAT781          MATEMATICA COMPUTACIONAL PARA CONTROL                        3.0       
+CCE205          ANALISIS MUSICAL                                             2.0       
+MTR606          METROLOGIA Y TECNICAS DE MEDICION                            3.0       
+CCE231          NARRACION AUDIOVISUAL                                        4.0       
+INF382          TEMAS AVANZADOS EN SISTEMAS DE INFORMACION 1                 3.5       
+CCE201          FOTOGRAFIA                                                   4.0       
+HIS381          HISTORIA DEL MUNDO MODERNO                                   4.0       
+FIS333          INTRODUCCION AL DISENO OPTICO                                4.0       
+CCE229          HISTORIA DEL CINE 2                                          3.0       
+CIS232          SOCIOLOGIA 2                                                 3.0       
+ING301          MANUFACTURA INTEGRADA POR COMPUTADORA                        3.5       
+MEC320          OLEOHIDRAULICA Y NEUMATICA                                   3.0       
+MEC209          MECANICA DE FLUIDOS                                          5.3       
+LIN208          LENGUA Y COMPOSICION                                         3.0       
+CCC286          ECOLOGIA Y COMUNICACION                                      3.0       
+FIS405          ELECTIVO PARA FISICA 5                                       3.0       
+CCE247          ACTORES SOCIALES Y PUBLICOS                                  3.0       
+MEC250          RESISTENCIA DE MATERIALES 2                                  4.3       
+INF281          LENGUAJE DE PROGRAMACION 1                                   5.0       
+CCO202          TEORIAS DE LA COMUNICACION                                   3.0       
+FIS240          TERMODINAMICA Y MECANICA ESTADISTICA                         4.5       
+CCC245          FOTOGRAFIA PERIODISTICA                                      3.0       
+MAT218          ECUACIONES DIFERENCIALES APLICADAS                           4.5       
+MEC289          TURBOMAQUINAS Y MAQUINAS DE DESPLAZAMIENTO POSITIVO          4.3       
+CCE237          TALLER DE IMAGEN PUBLICITARIA                                4.0       
+CCC258          PRINCIPIOS DE DANZA                                          3.0       
+HIS392          SEMINARIO DE TESIS 2                                         4.0       
+INF377          SISTEMAS DE INFORMACION GERENCIAL                            4.0       
+INF291          METODOS Y PROCEDIMIENTOS                                     3.5       
+INF248          SISTEMAS DE INFORMACION 1                                    5.0       
+HIS377          METODOLOGIA DE LA INVESTIGACION HISTORICA 2                  3.0       
+CCE261          TECNICAS DE GUION                                            3.0       
+CCE222          EXPRESION ORAL Y CORPORAL 1                                  3.0       
+INF234          MODELOS Y SIMULACION EMPRESARIAL                             3.5       
+HIS390          ETICA PROFESIONAL DEL HISTORIADOR                            2.0       
+FIS326          TEMAS DE FISICA 3                                            4.5       
+IND290          SEGURIDAD INTEGRAL                                           3.0       
+MAT241          METODOS NUMERICOS EN INGENIERIA                              3.0       
+FIS404          ELECTIVO PARA FISICA 4                                       3.0       
+FIS402          ELECTIVO PARA FISICA 2                                       3.0       
+HIS386          HISTORIA DEL MUNDO CONTEMPORANEO                             4.0       
+HIS388          SEMINARIO DE TESIS 1                                         4.0       
+MTR216          LABORATORIO DE SENSORES Y ACTUADORES                         1.0       
+CIC602          LENGUAJES DE PROGRAMACION                                    3.0       
+CCE260          RAZONAMIENTO CREATIVO                                        3.0       
+FIS328          TEMAS DE FISICA 5                                            4.5       
+CCC270          TELECOMUNICACIONES                                           3.0       
+CCC250          INDICADORES SOCIALES                                         2.0       
+IDM201          IDIOMA EXTRANJERO                                            0.0       
+MEC373          METROLOGIA                                                   3.0       
+MEC2T1          TERMOFLUIDOS                                                 4.0       
+ICA618          CONTROL NOLINEAL                                             4.0       
+FIS255          ELECTROMAGNETISMO 2                                          4.5       
+HIS383          SEMINARIO DE INVESTIGACION 1: PERU ANTIGUO                   4.0       
+HIS398          TEMAS DE HISTORIA DE AMERICA                                 3.0       
+MTR605          DISENO E INTEGRACION DEL SISTEMA MECATRONICO                 3.0       
+IND251          GESTION Y DIRECCION DE EMPRESAS                              3.5       
+TEO240          TEOLOGIA 2                                                   3.0       
+CCC236          CIUDADANIA Y COMUNICACION                                    3.0       
+FIS239          ESTADO SOLIDO                                                4.5       
+HIS389          HISTORIA DEL PERU 5: 1930 HASTA LA ACT                       4.0       
+CCE240          EXPRESION ORAL Y CORPORAL 2                                  5.0       
+INF358          INNOVACION Y DESARROLLO                                      3.5       
+INF371          INTELIGENCIA ARTIFICIAL                                      4.0       
+IEE229          ELECTRONICA DIGITAL                                          3.8       
+CCE228          REGISTRO DE IMAGEN Y AUDIO                                   4.0       
+INF378          SISTEMAS EXPERTOS                                            4.0       
+INF386          TEMAS AVANZADOS EN TECNOLOGIA DE INFORMACION 1               3.5       
+INF383          TEMAS AVANZADOS EN SISTEMAS DE INFORMACION 2                 3.0       
+CCE256          DISENO, EDICION Y PRODUCCION EDITORIAL                       4.0       
+INF274          ADMINISTRACION DE SISTEMAS OPERATIVOS Y BASE DE DATOS        4.0       
+FIS218          FISICA MODERNA                                               4.5       
+IEE215          MAQUINAS ELECTRICAS 1                                        4.5       
+CCC268          TEATRO MUSICAL                                               2.0       
+HIS680          SEM. SOBRE PENSAMIENTO CULTURA E IDENTIDAD LATINOAMERICANA   3.0       
+MTR603          ROBOTICA AVANZADA                                            3.0       
+CCO351          SEMINARIO DE INVESTIGACION 1                                 4.0       
+INF630          BASE DE DATOS 2                                              3.0       
+MTR240          METODOLOGIA DEL DISENO MECATRONICO                           3.0       
+HIS375          HISTORIA DE LA FORMACION DE OCCIDENTE                        3.0       
+HIS232          PALEOGRAFIA Y DIPLOMATICA                                    3.0       
+INF237          LENGUAJE DE PROGRAMACION ORIENTADA A OBJETOS                 4.0       
+HIS368          TEORIA DE LA HISTORIA                                        3.0       
+MEC286          TRANSFERENCIA DE CALOR                                       4.3       
+IND273          INVESTIGACION OPERATIVA 1                                    4.0       
+CCC279          INTRODUCCION AL ENSAYO                                       3.0       
+INF265          APLICACIONES DE CIENCIAS DE LA COMPUTACION                   4.0       
+CCE249          EDICION DE VIDEO                                             4.0       
+CCC292          PRODUCC.Y REALIZAC . DE MATERIAL. AUDIOVISUALES PARA EL DE   4.0       
+FIS325          TEMAS DE FISICA 2                                            4.5       
+CCE308          DIRECCION ESCENICA 2                                         5.5       
+IND373          DESARROLLO EMPRENDEDOR                                       3.5       
+INF282          LENGUAJE DE PROGRAMACION 2                                   5.0       
+HIS394          TALLER DE FORMACION PROFESIONAL                              3.0       
+CCC238          CREACION FOTOGRAFICA                                         4.0       
+CCC291          TALLER DE ACTUALIZACION EN ACTUACION                         4.0       
+FIL216          FILOSOFIA 2                                                  3.0       
+CCE238          TECNICAS Y ESTRATEGIAS DE MARKETING 2                        3.0       
+MEC270          PROCESOS DE MANUFACTURA                                      4.0       
+CCC244          FUENTES DOCUMENTALES                                         3.0       
+CCC333          ESTRATEGIAS Y BRANDING EN LA ERA DIGITAL                     3.0       
+INF617          GESTION DE PROYECTOS DE SOFTWARE                             3.0       
+IEE314          TOPICOS DE INSTRUMENTACION Y CONTROL                         3.5       
+MTR602          MODELAMIENTO Y SIMULACION DE SISTEMAS MECATRONICOS           3.0       
+CCC240          DIRECCION ARTISTICA                                          3.0       
+CCE220          TECNICAS Y ESTRATEGIAS DE MARKETING 1                        3.0       
+HIS373          HISTORIA DEL PERU 1: PERIODO ANTIGUO                         4.0       
+INF250          SISTEMAS DE INFORMACION 2                                    5.0       
+CCC239          CREATIVIDAD                                                  3.0       
+HUM401          ELECTIVO DE FORMACION COMPLEMENTARIA                         3.0       
+HIS402          TEMAS DE HISTORIA CONTEMPORANEA                              3.0       
+CCC231          ACTUACION 3                                                  4.0       
+ICA611          IDENTIFICACION DE SISTEMAS                                   4.0       
+HIS294          HISTORIA DE ESPANA MEDIEVAL Y MODERNA                        3.0       
+CCC252          LITERATURA DRAMATICA 2                                       2.0       
+CCO222          TECNOLOGIA DE LA INFORMACION                                 4.0       
+FIS338          SEMINARIO DE FISICA                                          4.0       
+CCC235          CANTO                                                        2.0       
+IEE238          ELECTRONICA BASICA                                           4.0       
+FIS309          MECANICA CUANTICA 2                                          4.5       
+CCE242          ESPACIO ESCENICO                                             3.0       
+MTR250          PROYECTO DE DISENO MECATRONICO                               6.0       
+FIL324          FILOSOFIA DE LA HISTORIA                                     4.0       
+IEE223          CIRCUITOS ELECTRICOS                                         5.0       
+INF238          REDES DE COMPUTADORAS                                        4.0       
+INF357          INTELIGENCIA DE NEGOCIOS                                     3.5       
+INF220          FUNDAMENTOS DE PROGRAMACION                                  5.0       
+FIS227          PARTICULAS ELEMENTALES                                       4.5       
+IND293          SEGURIDAD INTEGRAL Y GESTION AMBIENTAL                       4.0       
+CCE248          DISENO Y GESTION DE PROYECTOS DE COMUNICACION                4.0       
+FIS403          ELECTIVO PARA FISICA 3                                       3.0       
+HIS317          HISTORIA DE LA IGLESIA EN EL PERU Y AMERICA L                3.0       
+FIS203          FISICA 4                                                     4.5       
+FIS245          ELECTRONICA                                                  4.0       
+MEC2T2          INTRODUCCION AL DISENO DE MAQUINAS                           4.5       
+IEE312          ELECTRONICA DE POTENCIA                                      3.5       
+INF647          INTERACCION PERSONA-COMPUTADOR                               3.0       
+CCE239          PRODUCCION PUBLICITARIA                                      3.0       
+CCO241          GESTION EMPRESARIAL                                          3.0       
+CCE221          DRAMATURGIA 1                                                3.0       
+MTR607          AUTOMATIZACION DE LA FABRICACION                             3.0       
+ING341          TOPICS ON ADVANCED ROBOTICS                                  3.0       
+ING212          DINAMICA                                                     5.0       
+IND294          SISTEMAS INTEGRADOS DE PRODUCCION                            3.0       
+CCO352          LEGISLACION EN COMUNICACIONES                                2.0       
+CCO361          SEMINARIO DE INVESTIGACION 2                                 4.0       
+IEE240          ORGANIZACION Y ARQUITECTURA DE COMPUTADORAS                  5.0       
+CCE356          TENDENCIAS TEATRALES CONTEMPORANEAS                          3.0       
+MEC267          INGENIERIA DE MATERIALES                                     4.0       
+INF295          PLANEAMIENTO ESTRATEGICO EN INFORMATICA                      3.5       
+HIS396          TEMAS DE HISTORIA PERUANA                                    3.0       
+ANT211          ANTROPOLOGIA                                                 3.0       
+HIS645          SEMINARIO DE HISTORIA ECONOMICA DE AMERICA LATINA            3.0       
+CCC267          TEATRO LATINOAMERICANO                                       2.0       
+CCC241          ECONOMIA PARA PERIODISTAS                                    3.0       
+INF389          TEMAS AVANZADOS EN COMPUTACION                               3.0       
+EST218          ESTADISTICA PARA INGENIERIA                                  3.5       
+INF387          TEMAS AVANZADOS EN TECNOLOGIA DE INFORMACION 2               3.0       
+MEC315          DINAMICA APLICADA                                            3.0       
+MTR361          MANTENIMIENTO MECATRONICO                                    3.0       
+HIS387          SEMINARIO DE INVESTIGACION 3: PERU REPUBLICANO               4.0       
+CCC334          TALLER DE DISENO WEB                                         4.0       
+CCE264          PERIODISMO DE INVESTIGACION                                  4.0       
+INF373          TEORIA DE COMPILADORES                                       4.0       
+MTR202          PRACTICA SUPERVISADA PRE-PROFESIONAL                         0.5       
+CCE215          ILUMINACION                                                  4.0       
+CCC289          RESPONSABILIDAD SOCIAL, CONCERTACION Y MANEJO DE CONFLICTOS  3.0       
+CCC242          ESTUDIOS DE CONSUMO                                          2.0       
+IEE315          AUDIO                                                        3.5       
+INF639          PROCESO DE CONSTRUCCION DE SOFTWARE 1                        3.0       
+IND369          GESTION DEL CONOCIMIENTO                                     3.0       
+MTR218          HERRAMIENTAS DE SIMULACION                                   3.0       
+ICA601          CONTROL POR COMPUTADORA                                      4.0       
+CCE270          TALLER DE PRODUCCION TEATRAL 1                               7.0       
+CCE251          COMUNICACION INTERCULTURAL                                   3.0       
+CCC278          COMUNICACION POLITICA                                        3.0       
+IEE207          ARQUITECTURA DE COMPUTADORAS                                 3.5       
+HIS650          SEMINARIO DE HISTORIA SOCIAL LATINOAMERICANA                 3.0       
+MTR604          PROGRAMAC. E IMPLEMEN. DE EQUIPOS PARA APLICAC. MECATRONICA  3.0       
+CCE214          ANALISIS CINEMATOGRAFICO                                     2.0       
+MAT219          HERRAMIENTAS MATEMATICAS DE LA FISICA                        4.5       
+FIS335          ACUSTICA                                                     4.0       
+INF385          TEMAS AVANZADOS EN INGENIERIA DE SOFTWARE 2                  3.0       
+HIS385          HISTORIA DEL PERU 4: SIGLO XIX (1839-1930)                   4.0       
+FIS219          SISTEMAS ELECTROMAGNETICOS Y OPTOELECTRONICOS                4.5       
+INF370          CALIDAD DE SOFTWARE                                          3.0       
+DER349          DERECHO PARA INGENIEROS INFORMATICOS                         3.0       
+MEC269          LABORATORIO DE TERMODINAMICA Y FLUIDOS                       1.0       
+CCE230          DIAGNOSTICO Y ESTRATEGIA COMUNICACIONAL                      4.0       
+HIS406          HISTORIA DE LAS MUJERES Y DE GENERO                          3.0       
+INF245          INGENIERIA DE SOFTWARE                                       4.0       
+CCC253          MAQUILLAJE Y CARACTERIZACION                                 2.0       
+MTR601          MECANICA DE PRECISION Y MICROMECANICA                        3.0       
+INF379          SEGURIDAD, CONTROL Y AUDITORIA DE SISTEMAS DE INFORMACION    4.0       
+HIS666          SEMINARIO SOBRE HISTORIA REGIONAL                            3.0       
+CCE226          COMUNICACION PARA EL DESARROLLO 1: PERSPECTIVAS TEORICAS     3.0       
+CCC296          EL CLIENTE PUBLICITARIO: TECNICAS DE NEGOCIACION             3.0       
+MEC2T3          LABORATORIO DE INTRODUCCION AL DISENO DE MAQUINAS            1.0       
+FIS313          FISICA EXPERIMENTAL 2                                        4.0       
+INF226          DESARROLLO DE PROGRAMAS 1                                    3.0       
+FIS254          ELECTROMAGNETISMO 1                                          4.5       
+MEC284          CONTROL AUTOMATICO                                           4.3       
+CCE235          PERIODISMO INTERPRETATIVO Y DE OPINION                       3.0       
+HIS236          HISTORIOGRAFIA PERUANA                                       3.0       
+IEE256          SISTEMAS DIGITALES                                           5.5       
+IND281          INVESTIGACION OPERATIVA 2                                    4.0       
+FIS327          TEMAS DE FISICA 4                                            4.5       
+HIS686          SEMINARIO SOBRE DEMOGRAFIA HISTORICA                         3.0       
+CCO363          ESTETICA Y COMUNICACION                                      3.0       
+INF227          DESARROLLO DE PROGRAMAS 2                                    3.0       
+CCE258          PERIODISMO TELEVISIVO                                        5.0       
+CCE257          PERIODISMO RADIAL                                            4.0       
+CCE241          RADIO 1                                                      4.0       
+CCE253          HISTORIA DEL PERIODISMO                                      2.0       
+FIS366          ELECTROACUSTICA                                              3.5       
+ICA600          TEORIA DE SISTEMAS LINEALES                                  4.0       
+IND231          INGENIERIA ECONOMICA                                         3.5       
+CCC254          MARKETING DE SERVICIOS                                       4.0       
+IEE217          SISTEMAS ELECTRICOS                                          3.5       
+IEE245          TEORIA DE CONTROL 2                                          5.0       
+HIS395          HISTORIA DEL PENSAMIENTO Y LA CULTURA POLITICOS              3.0       
+CCE218          INFORMACION PERIODISTICA                                     3.0       
+ING220          ETICA PROFESIONAL                                            2.0       
+IEE218          LABORATORIO DE SISTEMAS ELECTRICOS                           1.0       
+IEE208          LABORATORIO DE ARQUITECTURA DE COMPUTADORAS                  1.0       
+CCE207          HISTORIA DEL ESPECTACULO TEATRAL 1                           2.0       
+HIS399          TEMAS DE HISTORIA MUNDIAL                                    3.0       
+CCC261          REALIZACION DOCUMENTAL                                       4.0       
+INF355          SEGURIDAD COMPUTACIONAL                                      3.0       
+HIS376          FUENTES HISTORICAS                                           3.0       
+HIS308          HISTORIA DE LAS RELIGIONES                                   3.0       
+FIS308          MECANICA CUANTICA 1                                          4.5       
+HIS393          SEMINARIO INTERDISCIPLINARIO                                 3.0       
+MTR343          TECNOLOGIAS DE AUTOMATIZACION                                3.5       
+INF388          TEMAS AVANZADOS EN INGENIERIA DE COMPUTADORAS 1              3.5       
+MEC206          TERMODINAMICA 1                                              4.5       
+CCE208          TEORIAS Y POLITICAS DEL DESARROLLO                           3.0       
+CCE259          DISENO PERIODISTICO E INFOGRAFIA                             4.0       
+CCO221          METODOS Y TECNICAS DE INVESTIGACION 1                        4.0       
+HIS404          HISTORIA ANDINA REPUBLICANA                                  3.0       
+MEC208          TERMODINAMICA 2                                              4.5       
+FIS312          FISICA EXPERIMENTAL 1                                        4.0       
+HIS400          HISTORIA DEL ARTE                                            3.0       
+CCE252          REDACCION PERIODISTICA                                       3.0       
+MTR608          VISION POR COMPUTADORA                                       3.0       
+CCC298          COMUNICACION BTL                                             4.0       
+CCC232          ANALISIS SEMIOTICO DE LA IMAGEN                              3.0       
+CCE211          MEDIOS AUDIOVISUALES                                         3.0       
+INF239          SISTEMAS OPERATIVOS                                          4.0       
+HIS371          METODOLOGIA DE LA INVESTIGACION HISTORICA 1                  3.0       
+CCE271          DRAMATURGIA 2                                                4.0       
+CCE254          FUENTES Y ESTRUCTURA DEL ESTADO                              3.0       
+CCC251          LITERATURA DRAMATICA 1                                       2.0       
+CCO233          DEONTOLOGIA DE LA COMUNICACION                               2.0       
+CIC611          MATEMATICAS PARA COMPUTACION                                 3.0       
+MEC328          PROCESOS INDUSTRIALES E INSTRUMENTACION                      3.0       
+HIS403          CORRIENTES Y TEMATICAS DE LA HISTORIOGRAFIA CONTEMPORANEA    3.0       
+CCO234          SEMIOTICA PARA COMUNICACIONES                                3.0       
+IND275          CONTROL DE GESTION INDUSTRIAL                                4.5       
+IOP225          TEORIA DE COLAS                                              3.5       
+FIS220          TECNICAS COMPUTACIONALES EN FISICA                           4.5       
+CCC297          PUBLICIDAD INTERACTIVA                                       3.0       
+CIC621          ALGORITMOS                                                   3.0       
+MEC313          VIBRACIONES                                                  3.0       
+IEE216          LABORATORIO DE MAQUINAS ELECTRICAS 1                         0.5       
+ING225          RESISTENCIA DE MATERIALES 1                                  5.0       
+HIS379          HISTORIA DEL MUNDO MEDIEVAL                                  3.0       
+INF391          PROYECTO DE TESIS 1                                          2.0       
+MEC265          TALLER DE PROCESOS DE MANUFACTURA                            2.0       
+INF627          PROGRAMACION EN EL SISTEMA UNIX                              3.0       
+HIS644          SEM. DE HISTORIA DE LOS MOVIMIENTOS Y PARTIDOS               3.0       
+FIS247          OPTICA Y FOTONICA                                            4.5       
+HIS345          HISTORIA ECONOMICA                                           3.0       
+CCC257          POLITICAS DE COMUNICACION                                    3.0       
+INF354          SISTEMAS MULTIMEDIA                                          3.5       
+CCC280          TALLER DE CRONICA PERIODISTICA                               3.0       
+FIS230          TEORIA DE CAMPOS ELECTROMAGNETICOS                           3.0       
+INF008          PRACTICA SUPERVISADA PREPROFESIONAL                          0.5       
+CCC247          HISTORIA DEL ESPECTACULO TEATRAL 2                           3.0       
+INF624          ARQUITECTURA DE COMPUTADORAS                                 3.0       
+HIS378          HISTORIA DE AMERICA CONTEMPORANEA: SIGLOS XIX A XXI          4.0       
+HIS318          HISTORIA SOCIAL                                              3.0       
+FIS324          TEMAS DE FISICA 1                                            4.5       
+INF246          BASES DE DATOS                                               3.8       
+MAT202          SERIES Y TRANSFORMADAS                                       3.5       
+MTR280          TRABAJO DE FIN DE CARRERA                                    6.0       
+IND232          ELABORACION Y EVALUACION DE PROYECTOS                        3.5       
+CCE354          PROYECTO DE ARTES ESCENICAS                                  7.0       
+CCC295          SELECCION Y EVALUACION DE MEDIOS AVANZADO                    3.0       
+HIS384          SEMINARIO DE INVESTIGACION 2: PERU COLONIAL                  4.0       
+CCE204          ACTUACION 1                                                  4.0       
+CCE210          PERSUASION                                                   3.0       
+FIS401          ELECTIVO PARA FISICA 1                                       3.0       
+HIS391          HISTORIA CULTURAL Y DE MENTALIDADES                          3.0       
+CCC256          PERIODISMO DEPORTIVO                                         3.0       
+CCE269          DIRECCION ESCENICA 1                                         4.5       
+INF376          SISTEMAS DISTRIBUIDOS                                        4.0       

@@ -1,0 +1,43 @@
+ALUMNOS: 
+CODIGO ALUMNO   NOMBRE ALUMNO                                                COD ESPECILIDAD
+20067828        PRADO VERGEL CARLOS JULIAN                                   171491    
+20110564        PAIRAZAMAN ALAMO MOISES MIGUEL                               171491    
+19980667        CHUMPITAZ IBEROS RONAL                                       155672    
+20019778        AQUINO TORO VALENTINA ROCIO                                  101171    
+20060658        REYES TANG EDWARD                                            107723    
+20060119        HENRIQUEZ ESPINO BEATRIZ                                     108523    
+20110165        JUSTINO FORZANI ERICKA VICTORIA                              171491    
+20064217        CABRERA LUNA SHIRLEY ISABEL                                  155672    
+20097877        SHIRAKAWA MIRANDA MADELEINE                                  107723    
+20020476        CORONEL CHUMPITAZ HELI                                       108523    
+19993541        CERNA HIJAR JOSE ROLANDO                                     171491    
+20083333        LANDEO SUELDO ADOLFO                                         108523    
+20109738        ARROYO GORDILLO MARIA HELI                                   107723    
+20070596        MORALES VALVERDE INES MARTHA                                 108523    
+20027352        SHIRAKAWA ORTEGA ANGEL                                       107723    
+19980622        CABRERA CANALES GUILLERMO EDRIC                              108523    
+20060735        NORABUENA PRECIADO CINTHIA                                   101171    
+20100201        RAFFO ARIAS SURAMI ANNIE                                     155672    
+20090888        ROMERO PALOMARES GLORIA TATIANA                              155672    
+20050391        VEGA GARCIA JANET REBECA                                     107723    
+19980315        CHUNG LEE ALVARO                                             155672    
+20010141        VELASQUEZ HUAYANAY EDGARD HENRY                              101171    
+20050743        CERNA DURAND MARTIN                                          101171    
+20043300        PINTO CALIXTO SHIRLEY                                        155672    
+20052529        CORRALES TSUKAZAN IRMA LOURDES                               101171    
+20046665        DIAZ CORREA IRMA VIRGINIA                                    155672    
+20020158        PEREZ FARFAN RICHARD SANDRO                                  155672    
+20090107        HERNANDEZ BARRIOS EMILIO                                     107723    
+20078092        INGA FLORES CESAR ADOLFO                                     101171    
+20013723        ARCA AMEZQUITA EDRIC RONALD                                  108523    
+19990844        SALAS AGUERO DANIEL                                          101171    
+20020441        DIAZ ANTEZANO MAGALI SILVANA                                 107723    
+20003172        FORZANI CARO ALONSO                                          107723    
+20030695        FERNANDEZ ORTEGA ELIZABETH ELIZABETH                         171491    
+20080708        VASQUEZ PAZ ALEX MARTIN                                      171491    
+20070461        PAREDES PATINO CHRISTIAN                                     108523    
+19990036        VALVERDE FLORES IRMA YDALI                                   155672    
+19998980        CERNA PAIRAZAMAN FIORELLA MARGOT                             107723    
+20110813        PALOMARES VERA HENRRY HUMBERTO                               108523    
+20015236        WONG MARTEL MADELEINE                                        107723    
+20060051        VILLA YALLICO TATIANA NANCY                                  171491    
