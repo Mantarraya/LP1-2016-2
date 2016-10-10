@@ -1,0 +1,483 @@
+Catalogo de autores
+====================================================================================================
+01)   378708 WILMER SAENZ ARANDA                                         
+Libros:
+      Codigo    Titulo                                                             Precio
+      DL57OH    La Cousine Bette                                                   121.92
+      BX05NO    El gran Gatsby                                                     133.35
+      VJ15WB    Mercadet ou le faiseur                                             124.46
+      RM41GR    The horoscope : a romance of the reign of Francois II               85.09
+      FS57EF    Otras voces, otros ambitos                                         246.38
+      GR49UZ    La maestra de p rvulos                                             200.66
+
+
+02)   140158 MIGUEL CALIXTO TORRES                                       
+Libros:
+      Codigo    Titulo                                                             Precio
+      WX78LO    Captain Pamphile                                                   180.34
+      JK95ZN    Conversacion en La Catedral                                        172.72
+      HZ59FK    El arpa de hierba                                                   73.66
+
+
+03)   349213 DELIA ZARATE URBINA                                         
+Libros:
+      Codigo    Titulo                                                             Precio
+      NR55QV    La Muerte del Salvaje                                              113.03
+      RZ19IP    Los Jefes                                                          130.81
+      HN59VX    Du Droit d'ainesse                                                 208.28
+
+
+04)   275448 CARMEN ZAMORA CABRERA                                       
+Libros:
+      Codigo    Titulo                                                             Precio
+      GV70KI    Ojos azules                                                        199.39
+      ZX89QI    Musica para camaleones                                             173.99
+      SB73JV    La guerra del fin del mundo                                        203.20
+      KK87BT    Sueno del Fevre                                                    223.52
+      WC92YD    The Women's War                                                    138.43
+
+
+05)   530367 DELIA ESTEFANIA CABRERA MORENO                              
+Libros:
+      Codigo    Titulo                                                             Precio
+      QE85EP    Code des gens honnetes                                             214.63
+      DF23HA    Twenty Years After                                                 196.85
+      OT01EH    Travesuras de la nina mala                                         224.79
+      NK59RC    Sylvie and Bruno                                                   247.65
+      HS44TO    The Happy Prince and Other Stories                                 162.56
+      EP34UE    Desayuno en Tiffany's                                              251.46
+      FK03EN    Daniela                                                            203.20
+      ZU59EV    Vientos de invierno                                                125.73
+
+
+06)   510907 FIORELLA ERIKA FLORENCIO POLO                               
+Libros:
+      Codigo    Titulo                                                             Precio
+      AB53PR    El maestro de esgrima                                              209.55
+      YB02MS    Los cachorros                                                       44.45
+      MY87JY    Contes drolatiques                                                 214.63
+      TM16TQ    Redencion                                                          209.55
+      BO68WB    La Carcel de Mujeres                                                78.74
+      ES78PN    La herencia misteriosa                                             229.87
+
+
+07)   250612 ZKENIA IRMA CHUNG ZUNIGA                                    
+Libros:
+      Codigo    Titulo                                                             Precio
+      FP73OA    El asedio                                                          143.51
+      BJ90SR    Lituma en los Andes                                                 41.91
+
+
+08)   870138 GUSTAVO ALONSO DEL CASTILLO MEJIA                           
+Libros:
+      Codigo    Titulo                                                             Precio
+      FH68GD    La Dame de Monsoreau                                               245.11
+      MW24KG    El hablador                                                        236.22
+      VC35SS    The Countess de Charny                                             203.20
+      CV34RJ    Casa de flores                                                     115.57
+
+
+09)   514787 WALTER JOLAY CHUMPITAZ                                      
+Libros:
+      Codigo    Titulo                                                             Precio
+      XL92SC    The Vicomte de Bragelonne                                          107.95
+      BZ57KT    Vautrin                                                             95.25
+      KS36IO    The Page of the Duke of Savoy                                      116.84
+      VR43QZ    Pamela Giraud                                                       53.34
+      WL33SE    Georges                                                            215.90
+
+
+10)   919777 ROSARIO TABORI ARIAS                                        
+Libros:
+      Codigo    Titulo                                                             Precio
+      KF95CS    La Rabouilleuse                                                     58.42
+      RA20QB    Plegarias atendidas                                                194.31
+      EG87ZA    Le Lys dans la vallee                                               53.34
+      YB40JD    La Prision de Rocambole                                            236.22
+
+
+11)   640279 CESAR JAIME RODRIGUEZ SERRANO                               
+Libros:
+      Codigo    Titulo                                                             Precio
+      UB78DM    Territorio comanche                                                 82.55
+      WU96AY    El Manuscrito del Domino                                           118.11
+      IS15MA    Pantaleon y las visitadoras                                        105.41
+      VG92EI    La cuerda del ahorcado                                             184.15
+      XO26YA    La Grande Breteche                                                  73.66
+      AD56PK    Carmen la gitana                                                    60.96
+      JM03NE    Histoire impartiale des Jesuites                                   241.30
+
+
+12)   350118 JULIO VILCARA JUGO                                          
+Libros:
+      Codigo    Titulo                                                             Precio
+      YV08TN    The Two Dianas                                                     251.46
+      VY42HM    Serie Cancion de hielo y fuego                                     242.57
+      YX02HW    Historia de Mayta                                                  140.97
+      HH76WR    Unspoiled Monsters y Kate McCloud                                  163.83
+      MU29FK    Le Contrat de mariage                                               69.85
+      UH09VU    Ange Pitou                                                         120.65
+      LW99EI    La tabla de Flandes                                                166.37
+
+
+13)   220562 HUMBERTO ALFONSO AMEZQUITA CONTRERAS                        
+Libros:
+      Codigo    Titulo                                                             Precio
+      VA29DQ    Los tesoros del Rajah                                              100.33
+      DG13VS    Miriam                                                             252.73
+      EY18DR    Eugenie Grandet                                                    157.48
+
+
+14)   810557 JAIME JULIAN SHIRAKAWA FLORIAN                              
+Libros:
+      Codigo    Titulo                                                             Precio
+      OX04GA    Ascanio                                                            125.73
+      QF35TJ    Intentions                                                         114.30
+
+
+15)   811509 RAUL COLLADO VILLA                                          
+Libros:
+      Codigo    Titulo                                                             Precio
+      KT92QN    La tia Julia y el escribidor                                       123.19
+      OI60MD    The Knight of Sainte-Hermine                                       105.41
+      NO11YI    El loco de Bedlan                                                  228.60
+      RQ75PY    Festin de cuervos                                                  210.82
+      XG88SF    Escritos selectos de Truman Capote                                  91.44
+
+
+16)   270040 DAVID CARLOS PEREZ ANTEZANO                                 
+Libros:
+      Codigo    Titulo                                                             Precio
+      QD96YQ    La espada leal Edicion bolsillo 2011                                41.91
+      PL73BC    L'Heritiere de Birague                                              39.37
+
+
+17)   980233 CINTHIA MILENA ZEGARRA CABELLO                              
+Libros:
+      Codigo    Titulo                                                             Precio
+      AD81YL    The Mohicans of Paris                                              214.63
+      NT54QX    El Club de los explotadores                                        245.11
+      SW94FG    La viuda de Sologne                                                144.78
+      OR88HL    The Wolf-Leader                                                    154.94
+      KP43CO    El capitan Alatriste                                               163.83
+      WW44CI    Los perros ladran                                                  200.66
+
+
+18)   707842 DELICIA NORABUENA ZEGARRA                                   
+Libros:
+      Codigo    Titulo                                                             Precio
+      CQ81GD    Wann-Chlore                                                         34.29
+      VV63AT    La taberna de la sangre                                             44.45
+      ZG56YE    Tormenta de espadas                                                228.60
+      EZ67AV    Jean-Louis                                                         185.42
+      UX19SM    Illusions perdues                                                  226.06
+      WT82TQ    Historia de un crimen                                              212.09
+      YT74BN    La Condesa de Artoff                                               227.33
+      UG87EB    Le Cure de Tours                                                    59.69
+      OT81OI    arbol de noche y otras historias                                    64.77
+
+
+19)   453687 BLANCA LUZ ACUNA AYLLON                                     
+Libros:
+      Codigo    Titulo                                                             Precio
+      HL27WX    La Reine Margot                                                    203.20
+      DJ07OS    La Fille aux yeux d'or                                             158.75
+      LJ79TQ    Juego de tronos                                                     64.77
+      WZ02SA    El caballero Misterioso                                            111.76
+      XI47KB    The Picture of Dorian Gray                                         218.44
+
+
+20)   543556 VALENTINA PAULA URBINA ANTEZANO                             
+Libros:
+      Codigo    Titulo                                                             Precio
+      TW49OT    The Nutcracker                                                     149.86
+      JC40KJ    What the Tortoise Said to Achilles                                  64.77
+      UV85GZ    A Dream of Spring                                                   38.10
+      RE70JW    Castle Eppstein; The Specter Mother                                 66.04
+      TD72NH    La Reina del Sur                                                   243.84
+      VQ33TZ    L'ecole des menages                                                247.65
+
+
+21)   348262 EMILIO EMIGDIO GONZALES AGUIRRE                             
+Libros:
+      Codigo    Titulo                                                             Precio
+      GP02OM    El club Dumas o La sombra de Richelieu                             210.82
+      GE28PG    Los cuadernos de don Rigoberto                                      53.34
+      YZ45BK    El rag del Armagedon                                               187.96
+      GP27ZT    De Profundis                                                       196.85
+      QZ26VP    La vuelta del Presidiario                                          243.84
+      VU85UQ    The Count of Moret                                                  60.96
+      SB63QP    Clara de Azay                                                       66.04
+
+
+22)   247769 EDILBERTO JESUS MORI SUAREZ                                 
+Libros:
+      Codigo    Titulo                                                             Precio
+      XP03LQ    Lord Arthur Savile's Crime and Other Stories                        78.74
+      LN41ZX    La jaula de los pajaros                                            195.58
+      FU12XT    La Derniere Fee                                                     76.20
+      JG66BY    El paraiso en la otra esquina                                       52.07
+      GD43FZ    El hombre gris                                                     201.93
+      GD37QR    Sarrasine                                                           99.06
+
+
+23)   380049 HUMBERTO ALBERTO VARGAS GUEVARA                             
+Libros:
+      Codigo    Titulo                                                             Precio
+      NQ85AH    Las tragedias del matrimonio                                       165.10
+      JV42VM    The Conspirators                                                   215.90
+      YR05GC    Elogio de la madrastra                                             245.11
+      ZN31NZ    Hunter's Run                                                       104.14
+
+
+24)   490454 JANET CINTHIA ARANDA MINAYA                                 
+Libros:
+      Codigo    Titulo                                                             Precio
+      QX60RA    El arpa de hierba                                                  172.72
+      FO36KG    Clotilde de Lusignan                                               241.30
+      UF73BS    La pasada maldita                                                   34.29
+      SW91RT    La Senorita Elena                                                   88.90
+
+
+25)   411592 LUZ SOFIA JAUREGUI BRAVO                                    
+Libros:
+      Codigo    Titulo                                                             Precio
+      NI11ZP    El caballero del jubon amarillo                                    106.68
+      AP10BY    Cabo Trafalgar                                                      88.90
+      MF12EA    Sor Luisa la hermana de la Caridad                                  71.12
+      JJ60VH    The Black Tulip                                                    138.43
+
+
+26)   230184 SURAMI HELI PRECIADO PINTO                                  
+Libros:
+      Codigo    Titulo                                                             Precio
+      TN14WQ    Splendeurs et miseres des courtisanes                              205.74
+      AR38XY    El nino perdido                                                    208.28
+
+
+27)   130082 ALFONSO WALDEMAR CABELLO LAM                                
+Libros:
+      Codigo    Titulo                                                             Precio
+      YV39IA    Crucero de verano                                                  180.34
+      AI29HK    El husar                                                           146.05
+      HT75NY    Lady Windermere's Fan                                              171.45
+      XN06CH    El sol de Breda                                                     62.23
+      AQ49PN    Le Vicaire des Ardennes                                             57.15
+      VH14EB    Le Pere Goriot                                                      46.99
+      SK97OX    The Ballad of Reading Gaol                                         227.33
+      AO01MF    Limpieza de sangre                                                  67.31
+
+
+28)   644596 VICTOR EDGAR GARCIA ASTETE                                  
+Libros:
+      Codigo    Titulo                                                             Precio
+      FJ02LI    Poems                                                               58.42
+      EJ21LI    Los Caballeros del Claro de Luna                                   194.31
+      VW02ST    La justicia de los gitanos                                         171.45
+      OQ87LF    Through the Looking-Glass, and What Alice Found There              167.64
+      WQ87GH    Los amores de Aurora                                                63.50
+
+
+29)   320934 OFELIA CARMEN MERCADO CARO                                  
+Libros:
+      Codigo    Titulo                                                             Precio
+      YM56PN    The Importance of Being Earnest                                    254.00
+      XG72UU    Danza de dragones                                                  179.07
+      QH32MN    Pillow Problems                                                    109.22
+      LL46JK    Las mascaras rojas.                                                 66.04
+
+
+30)   730269 DELICIA ARCA AQUINO                                         
+Libros:
+      Codigo    Titulo                                                             Precio
+      KN05WH    The Companions of Jehu                                             228.60
+      VL26IW    Los millones de la gitana                                          241.30
+      DO87DC    El tango de la guardia vieja                                       195.58
+      HA99BH    La juventud de Enrique IV                                          234.95
+      XE42HK    Three Sunsets and Other Poems                                      250.19
+
+
+31)   530798 GIOVANA MEJIA ZEGARRA                                       
+Libros:
+      Codigo    Titulo                                                             Precio
+      HR09JW    An Ideal Husband                                                   154.94
+      FV79WO    Alice's Adventures in Wonderland                                   172.72
+      PR75XS    Crucero de verano                                                   52.07
+      ZH15MJ    La reina de las barricadas                                         168.91
+      NR17WL    La Resurreccion de Rocambole                                        74.93
+      LG98TZ    The Three Musketeers                                                86.36
+
+
+32)   742063 MILENA CINTHIA ZARATE ACUNA                                 
+Libros:
+      Codigo    Titulo                                                             Precio
+      LL18QO    Aventuras de Enrique IV                                            215.90
+      PJ74ST    Un asunto de horror                                                250.19
+      HJ52JB    Un asunto de honor                                                 121.92
+      UF49CQ    Aventuras de Enrique IV                                            152.40
+      SC05ZN    Choque de carros                                                    92.71
+      IY52FF    El pintor de batallas                                              241.30
+      SU23QG    The Corsican Brothers                                               81.28
+      FA22DA    La Guida di Bragia, a Ballad Opera for the Marionette Theatre       181.61
+      QW98OP    La Fiesta de los fantasmas                                         246.38
+      BL12ML    La Fiesta del Chivo                                                 39.37
+      FR51RE    Los Dramas de Paris                                                 69.85
+      VE80TF    Choque de reyes                                                    138.43
+      TP37VT    Los puentes de Paris                                                38.10
+
+
+33)   690189 FRANCISCO ZIMIC SALAS                                       
+Libros:
+      Codigo    Titulo                                                             Precio
+      CN46UK    El oro del rey                                                     254.00
+      PQ60GW    La sombra del aguila                                               123.19
+      VV23OA    Muerte de la luz                                                   254.00
+      FN69PH    La hermosa jardinera                                               185.42
+
+
+34)   584115 MIGUEL ALEX LANDEO ESTRADA                                  
+Libros:
+      Codigo    Titulo                                                             Precio
+      RJ20IU    Le Chevalier de Maison-Rouge                                       220.98
+      VS23NX    La Peau de chagrin                                                 195.58
+
+
+35)   370929 DELICIA ROSA ARCA LEIVA                                     
+Libros:
+      Codigo    Titulo                                                             Precio
+      NZ63LS    Beat the Devil                                                     129.54
+      WX16NP    La venganza de Bacara                                              168.91
+      AZ43WP    The Soul of Man under Socialism                                    127.00
+      WB29OX    The Regent's Daughter                                               96.52
+
+
+36)   340444 YLIANA FLOR ORTIZ GUEVARA                                   
+Libros:
+      Codigo    Titulo                                                             Precio
+      EC73WX    Quien mato a Palomino Molero                                       217.17
+      MA20SK    Le Cousin Pons                                                     252.73
+      CL20LZ    Suspense                                                           167.64
+      DZ12CL    El Duque en su territorio                                           60.96
+
+
+37)   756733 JOHAN ENRIQUE AYALA ZEVALLOS                                
+Libros:
+      Codigo    Titulo                                                             Precio
+      YR27GF    Corsarios de Levante                                               176.53
+      YW81TU    Las Hazanas de Rocambole                                           109.22
+      NK71DY    Le Centenaire                                                      186.69
+      PF46RW    La carta esferica                                                  109.22
+
+
+38)   800384 FELICITA ERIKA DEL CASTILLO CHUNG                           
+Libros:
+      Codigo    Titulo                                                             Precio
+      GU35DT    El cementerio de los ajusticiados                                  205.74
+      YY65BT    La ciudad y los perros                                             138.43
+      ZH24KS    Un breve cuento aparecido en la revista Seventeen                  135.89
+      YN03PJ    Olympe de Cleves                                                    43.18
+      HH00RA    The Hunting of the Snark                                           185.42
+      JY07US    La Maratre                                                         240.03
+      JB08JV    The Forty-Five Guardsmen                                           161.29
+      QL73RT    The Count of Monte Cristo                                          140.97
+
+
+39)   710789 VICTORIA MILAGROS SHIRAKAWA SAONA                           
+Libros:
+      Codigo    Titulo                                                             Precio
+      YA07UN    Le Chef-d'oeuvre inconnu                                           232.41
+      JM02DM    Les Chouans                                                        251.46
+      JN69MT    Un dia de colera                                                    83.82
+
+
+40)   270227 TERESA TERESA MARTEL MERCADO                                
+Libros:
+      Codigo    Titulo                                                             Precio
+      ZV04HY    El regicida                                                        245.11
+      XK10CO    Los amores de Limosino                                             226.06
+      YB22MJ    El testamento del grano de sal                                      82.55
+      QP09IF    La casa verde                                                      146.05
+      CF99QG    El Presidio de Tolon                                               252.73
+
+
+41)   679768 MARINA NATALIA GARCIA INGA                                  
+Libros:
+      Codigo    Titulo                                                             Precio
+      WG82SY    Robin Hood                                                         140.97
+      KT34IY    La ultima palabra de Rocambole                                     213.36
+      WX20SS    Refugio del viento                                                 212.09
+      NR01QI    Rhyme And Reason                                                    83.82
+
+
+42)   290786 ROSARIO MARIBEL YEP ZAVALETA                                
+Libros:
+      Codigo    Titulo                                                             Precio
+      EJ50LM    A sangre fria                                                      231.14
+      VS38II    Las Miserias de Londres                                            161.29
+      RH83TI    Un drama en la India                                               227.33
+      WP94KM    Le Corsaire                                                        153.67
+      XX61WU    The Muses Are Heard                                                 76.20
+
+
+43)   650611 EDGAR MUNOZ VERGEL                                          
+Libros:
+      Codigo    Titulo                                                             Precio
+      UG82HG    The Whites and the Blues                                           148.59
+      IX73YO    House of Pomegranates                                              191.77
+      VL91XY    Les Ressources de Quinola                                          124.46
+
+
+44)   120992 OFELIA BEATRIZ MONTERO BOLANOS                              
+Libros:
+      Codigo    Titulo                                                             Precio
+      OQ13CC    Annette et le Criminal                                             157.48
+      UC09DW    El sueno del belga                                                 115.57
+      KC36ZX    The Fencing Master                                                 201.93
+      LD88NO    El puente de los asesinos                                          191.77
+      ER41EP    La casa de locos                                                   102.87
+      ID55DB    Ana y el asesino                                                   115.57
+      GU78XV    The Queen's Necklace                                               246.38
+      CF31TB    Turquesa la pecadora                                                31.75
+      VH55KV    El puente de los suspiros                                          166.37
+      ZN87LP    El sueno del celta                                                 102.87
+      TH63MF    La casa de los fantasmas                                           194.31
+      MW99SY    Turquesa la pecadora 2da. Parte                                    182.88
+
+
+45)   524655 GLENDA CABRERA MORI                                         
+Libros:
+      Codigo    Titulo                                                             Precio
+      LF13HZ    Sylvie and Bruno Concluded                                          85.09
+      DE64OV    A Woman of No Importance                                           175.26
+      VT73DZ    La piel del tambor                                                 200.66
+      VN51MG    El herrero del convento                                             63.50
+      ZZ22LY    Las demoliciones de Paris                                           62.23
+      CK21QD    Cromwell                                                            99.06
+      NY61UJ    Una                                                                130.81
+
+
+46)   990354 JAVIER EDGARD LANDA CABRERA                                 
+Libros:
+      Codigo    Titulo                                                             Precio
+      JW47GO    Mojave y La Costa Vasca, 1965                                       67.31
+      TZ22CC    Un recuerdo navideno                                               238.76
+      AX60VV    El invitado del Dia de Accion de Gracias                           187.96
+
+
+47)   510063 VICTORIA FIORELLA CUBA POMAJAMBO                            
+Libros:
+      Codigo    Titulo                                                             Precio
+      LC55WK    Joseph Balsamo                                                     171.45
+
+
+48)   309313 ALEXANDER PORTUGAL RAFFO                                    
+Libros:
+      Codigo    Titulo                                                             Precio
+      ZU01JG    Le Colonel Chabert                                                  31.75
+      ZQ36UY    El Conde de Artoff                                                 233.68
+      RP56JN    Los dramas sangrientos                                             187.96
+      MK58GB    El caballero errante Edicion bolsillo 2011                          41.91
+      QY58OK    Louis XIV and His Century                                          168.91
+      AK44KR    Los estranguladores                                                210.82
+
+
