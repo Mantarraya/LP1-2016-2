@@ -4,7 +4,8 @@
 void leerAlumnos(void *&, int&, int&);
  
 void reporte(void *, int&, int&);
- 
+
+void ordenarAlumnos(void *&); 
  
  #endif 
 

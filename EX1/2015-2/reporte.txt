@@ -4,11 +4,11 @@ Promedios ponderados obtenidos por los alumnos que cursaron ese semestre
 ----------------------------------------------------------------------------------------------------
 Nombre                                                        Promedio
 ----------------------------------------------------------------------------------------------------
-PINTO CALIXTO SHIRLEY                                         11.47
-INGA FLORES CESAR ADOLFO                                      14.69
-SHIRAKAWA ORTEGA ANGEL                                         9.00
-CHUMPITAZ IBEROS RONAL                                        11.81
-VILLA YALLICO TATIANA NANCY                                   10.63
-ROMERO PALOMARES GLORIA TATIANA                               13.86
 CERNA PAIRAZAMAN FIORELLA MARGOT                              11.32
+CHUMPITAZ IBEROS RONAL                                        11.81
+INGA FLORES CESAR ADOLFO                                      14.69
+PINTO CALIXTO SHIRLEY                                         11.47
 PRADO VERGEL CARLOS JULIAN                                    11.19
+ROMERO PALOMARES GLORIA TATIANA                               13.86
+SHIRAKAWA ORTEGA ANGEL                                         9.00
+VILLA YALLICO TATIANA NANCY                                   10.63

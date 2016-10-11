@@ -269,3 +269,98 @@ void reporte(void *alumnos, int &anio, int &ciclo){
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+int calcularNumAlumnos(void *alumnos){
+	
+	void **arrAlumnos = (void **) alumnos;
+	
+	int cont = 0; 
+	
+	while (arrAlumnos[cont] != NULL)
+		cont++;
+	
+	return cont;
+	
+}
+
+char *obtenerCodigo(void *alumno){
+	
+	void **regAlumno = (void **) alumno;
+	
+	return (char *) regAlumno[0];
+	
+}
+
+void intercambiar(void *&alumno1, void *&alumno2){
+	
+	void *alumnoAux;
+	
+	alumnoAux = alumno1;
+	alumno1 = alumno2;
+	alumno2 = alumnoAux;
+	
+}
+
+
+void ordenarAlumnos(void *&alumnos){
+   
+    int numAlumnos = calcularNumAlumnos(alumnos);
+	
+   
+    int i , j;
+   
+    void **arrAlumnos = (void **) alumnos;
+   
+    for (i = 0; i < numAlumnos-1; i++){
+        for (j = 0; j < numAlumnos-i-1; j++){
+           
+            char *nomb1 = obtenerCodigo(arrAlumnos[j]);
+            char *nomb2 = obtenerCodigo(arrAlumnos[j+1]);
+           
+            if (strcmp(nomb1, nomb2) > 0)
+                intercambiar(arrAlumnos[j], arrAlumnos[j+1]);
+           
+        }
+    }
+   
+   
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -17,6 +17,9 @@ int main(){
 	leerAlumnos(alumnos, anio, ciclo);
 	
 	
+	ordenarAlumnos(alumnos);
+	
+	
 	reporte(alumnos, anio, ciclo);
 	
 	
